@@ -2,3 +2,4 @@
 
 
 - [Art][art.md]
+- [Art][other_art.md]
