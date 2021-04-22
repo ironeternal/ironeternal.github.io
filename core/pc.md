@@ -1,20 +1,24 @@
 # PCs
 
+![witch](https://pro2-bar-s3-cdn-cf3.myportfolio.com/a84ee720f08e9fab6438b588df6cd45d/4e80ad09-0c20-41cf-a5d7-450cf6a13803_rw_1920.jpg?h=3e57ff7d89fede62666853c6bcb23fcb)
+
 Quick gen:
 
 1. 6 x [d6-d6] in order
 2. 3d3 for character advancements (1 prowess, 2 skills, 3 cores)
 3. 3d10 Roll for skills
 4. Select kit
+ 
+> All characters start at level 3
 
 ## Stats (6 x [d6-d6])
 
-- Fitness
-- Dexterity
-- Education
-- Wits
-- Charisma
-- Luck
+- Fitness: strength, power, stamina, flexibility
+- Dexterity: agility, coordination, balance
+- Education: knowledge, formal schooling
+- Wits: instinct, vibes, gut reaction, wisdom
+- Charisma: personailty, comeliness, force of will, spirit
+- Luck: fate, chance, destiny
 
 Stats may never exceed 6 without magic. 12 with magic.
 
@@ -35,10 +39,10 @@ Stats may never exceed 6 without magic. 12 with magic.
 
 Pick 1:
 
-- +1 to combat prowess
-- Train a new weapon specialisation
-- Gain one new skill or improve an old one
-- Increase your arcane circle by 1
+- +1 to combat prowess and gain 20 hitpoints
+- Train a new weapon specialisation and gain 20 hitpoints
+- Gain one new skill or improve an old one and gain 15 hitpoints
+- Increase your arcane circle by 1 and gain 10 hitpoints
 
 # Kit
 
@@ -57,7 +61,7 @@ All adventurers are equipt with standard adventuring equipment (rope, first aid 
 ## Weapons
 
 - A natural twenty transforms a miss to a weak hit, a weak hit to a strong, a strong to a wounding hit, and a wounding hit to a wounding hit with +10.
-- Weapon specialisation grants +2 to hit and can only be applied to a given weapon once. Specialisation applies to all weapons with the same tags (e.g. 1 handed cutting weapons would apply to the longsword, boarding axe, khopesh, and katana but not morning star or claymore)
+- Weapon specialisation grants +2 to hit, +1 to damage, and can only be applied to a given weapon once. Specialisation applies to all weapons with the same tags (e.g. 1 handed cutting weapons would apply to the longsword, boarding axe, khopesh, and katana but not morning star or claymore)
 
 |Weapon|Usage|Damage Type|Weak Hit|Strong Hit|Cost|Special|
 |:-|:-|:-|:-|:-|:-|:-|
@@ -96,6 +100,8 @@ Weapons may have the following properties:
 - **Bashing**: +6 damage on strong hit, bashing weapons tend to bounce off target but when the land a solid hit they crush and shatter with greater power than other weapons
 - **Piercing**: +1 on combat, piecing weapons are more able to leverage their size for offence and defence increasing their likelihood to wound
 - **Cutting**: +3 damage on hit, glancing hits with cutting weapons result in effective slashes, all hits do slightly more damage than other weapons
+
+quick maff
 
 - Cost: 25
   - x2 if 1H
@@ -139,7 +145,7 @@ Roll 2d20 + combat (fitness (or dexterity if ranged) + prowess + weapon bonus + 
 - if 1 roll is greater than threshold its a WEAK hit
 - if no rolls are greater than threshold its a FAIL
 
-On a WEAK hit deal WEAK hit damage. On a STRONG hit deal STRONG hit damage or deal WEAK hit damage and perform a special attack. Fitness is added to all attack rolls
+On a WEAK hit deal WEAK hit damage. On a STRONG hit deal STRONG hit damage or deal WEAK hit damage and perform a special attack. Fitness is added to all melee attack rolls, only the bow and sling use dexterity to hit.
 
 - WEAK hit damage: WEAK + fitness
 - STRONG hit damage: STRONG + fitness
@@ -152,3 +158,6 @@ On a WEAK hit deal WEAK hit damage. On a STRONG hit deal STRONG hit damage or de
 - Shove: shove the target
 - Disengage: target can not take OOP until their next turn
 - Fient: removes prowess bonus from target defence until their next turn
+-
+
+![witches](https://pro2-bar-s3-cdn-cf.myportfolio.com/a84ee720f08e9fab6438b588df6cd45d/b48c274c-3295-4f05-a6b7-c76e6da0c193_rw_1920.jpg?h=4b2378c9d9f0aa981577a75a6a52759e)

@@ -20,3 +20,6 @@ Specific hex cores are required for certain spells. Witches and wizards may only
 # Casting
 
 Casting a spell will normally require that the caster roll a check. On a strong hit the spell is cast. On a weak hit the core detonates and is destoryed; the spell is cast but the core is no longer usable for spell casting.
+
+
+![wand](https://pro2-bar-s3-cdn-cf4.myportfolio.com/a84ee720f08e9fab6438b588df6cd45d/54b1b326-3dae-4158-aa8f-3b686195ee6a_rw_1920.jpg?h=be59373c5b2c558e528c8a61ea935e40)
