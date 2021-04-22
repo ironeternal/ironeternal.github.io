@@ -120,3 +120,35 @@ Weapons may have the following properties:
 ### Subsystem:
 - Cost: 25*2^AC, half for shields
 - Min fitness: (AC) / 2 (rounded up)
+
+
+# Core
+## Checks
+
+Roll 2d20 + Skill + Ability vs DC or 10 + Skill + Ability
+
+- if 2 rolls are greater than threshold its a STRONG success
+- if 1 roll is greater than threshold its a WEAK success
+- if no rolls are greater than threshold its a FAIL
+
+## Combat
+
+Roll 2d20 + combat (fitness (or dexterity if ranged) + prowess + weapon bonus + AC) vs defence (10 + AC + prowess)
+
+- if 2 rolls are greater than threshold its a STRONG hit
+- if 1 roll is greater than threshold its a WEAK hit
+- if no rolls are greater than threshold its a FAIL
+
+On a WEAK hit deal WEAK hit damage. On a STRONG hit deal STRONG hit damage or deal WEAK hit damage and perform a special attack. Fitness is added to all attack rolls
+
+- WEAK hit damage: WEAK + fitness
+- STRONG hit damage: STRONG + fitness
+
+### Special Attacks
+
+- Targeted shot: hit a specific part of the target
+- Disarm: disarm the target
+- Trip: trip the target
+- Shove: shove the target
+- Disengage: target can not take OOP until their next turn
+- Fient: removes prowess bonus from target defence until their next turn
