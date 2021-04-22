@@ -9,8 +9,6 @@ Certain rituals are only possible at certain points during the day. Some require
 
 Specific hex cores are required for certain spells. Witches and wizards may only cast the set of spells for which they have cores.
 
-![wand](https://cdna.artstation.com/p/assets/images/images/012/680/214/large/jon-cameron-li-entertainment-design-finals-li-yuk-man-jonathan-4.jpg?1535996515)
-
 ## Common Cores
 
 - Amber encrusted pine: Materials, creation, transmutations
@@ -28,4 +26,43 @@ Casting a spell will normally require that the caster roll a check. On a strong 
 
 .
 
-![wand](https://pro2-bar-s3-cdn-cf4.myportfolio.com/a84ee720f08e9fab6438b588df6cd45d/54b1b326-3dae-4158-aa8f-3b686195ee6a_rw_1920.jpg?h=be59373c5b2c558e528c8a61ea935e40)
+![wand](https://cdna.artstation.com/p/assets/images/images/012/680/214/large/jon-cameron-li-entertainment-design-finals-li-yuk-man-jonathan-4.jpg?1535996515)
+
+
+
+
+# Spells
+
+- Amber encrusted pine: Materials, creation, transmutations
+- Troll blood soaked yew: Protection, healing, time
+- Walnut with hag whisker inlay: Emotions, illusions, perception
+- Elm and lycanthrope leather lamellar: Shapeshifting, light, fear
+- Ash scorched in dragon fire: Elements, oaths, truth
+- Holly with orc tusk core: Conjuration, divination, retribution
+
+# Spell Schools
+- **Illusion (Charisma):** Spells that alter perception, such as Invisibility and Charm.
+- **Conjuration (Education):** Spells that summon creatures and equipment from other worlds, such as Bound Items and Summon.
+- **Alteration (Education):** Spells that manipulate the laws of nature, such as Water Breathing and Levitation.
+- **Destruction (Wits):** Spells that cause physical harm, such as Fire Damage and Damage Attribute.
+- **Mysticism (Charisma):**  Spells that shape and focus ethereal forces, such as Telekinesis and Soultrap.
+- **Restoration (Wits):** Spells that heal, such as Restore Health and Cure Common Disease.
+
+## Education: Alteration, conjuration
+
+nothin' yet
+
+## Wits: Destruction, restoration
+
+nothin' yet
+
+## Charisma: Illusion, Mystcism
+- Charm person (charisma/short/person/1 hour): The person regards you as a good friend and ignores the obvious spell you just cast on them.
+- Color Spray (charisma/15' cone/sighted creatures/1d6 rounds): All creatures within range are befuddled.
+- Death Mask (Charisma/touch/humanoid corpse/till sunrise): You touch a corpse and the face peels off like a mask, while the rest of the corpse quickly rots into dust. When you (and only you) wear the mask, you will look and sound like the person whose face you're wearing, but only to sentient people (no effect on animals, spirits, or constructs). The mask will rot into uselessness after 1 day.
+- Death Scythe (charisma/touch/corpse/1 hour): The corpse disintegrates as you pluck a black scythe from its center of mass. This scythe is a +1 scythe (14/24, +1 to combat, 2 handed) that deals double damage to creatures of the same type. (For example, a scythe made from a troll corpse would deal double damage to trolls.) This spell consumes the corpse.
+
+# Magical effects
+## Befuddled
+
+Befuddled creatures cannot tell any two creatures apart—everyone looks the same to them. Whenever they attack, they attack a random creature. When a Befuddled creature casts a spell, they cast a random spell at a target picked randomly from all eligible ones. Whenever they try to run through a door, they run through a random door.

@@ -5,7 +5,7 @@
 Quick gen:
 
 1. 6 x [d6-d6] in order
-2. 3d3 for character advancements (1 prowess, 2 skills, 3 cores)
+2. 3d6 for character advancements (1-2 prowess, 3-4 skills, 5-6 cores)
 3. 3d10 Roll for skills
 4. Select kit
  
@@ -42,9 +42,7 @@ Pick 1:
 - +1 to combat prowess and gain 20 hitpoints
 - Train a new weapon specialisation and gain 20 hitpoints
 - Gain one new skill or improve an old one and gain 15 hitpoints
-- Increase your arcane circle by 1 and gain 10 hitpoints
-
-![lighting arrow](https://cdnb.artstation.com/p/assets/images/images/012/680/337/large/jon-cameron-li-entertainment-design-finals-li-yuk-man-jonathan-9.jpg?1535997407)
+- Increase your arcane core capacity by 1 and gain 10 hitpoints
 
 # Kit
 
