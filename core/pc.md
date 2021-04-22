@@ -35,7 +35,8 @@ Stats may never exceed 6 without magic. 12 with magic.
 
 Pick 1:
 
-- +1 to combat prowess, add a weapon specialisation
+- +1 to combat prowess
+- Train a new weapon specialisation
 - Gain one new skill or improve an old one
 - Increase your arcane circle by 1
 
@@ -55,29 +56,35 @@ All adventurers are equipt with standard adventuring equipment (rope, first aid 
 
 ## Weapons
 
+- A natural twenty transforms a miss to a weak hit, a weak hit to a strong, a strong to a wounding hit, and a wounding hit to a wounding hit with +10.
+- Weapon specialisation grants +2 to hit and can only be applied to a given weapon once. Specialisation applies to all weapons with the same tags (e.g. 1 handed cutting weapons would apply to the longsword, boarding axe, khopesh, and katana but not morning star or claymore)
+
 |Weapon|Usage|Damage Type|Weak Hit|Strong Hit|Cost|Special|
 |:-|:-|:-|:-|:-|:-|:-|
 |Club|Light|Bashing|4|14|25||
 |Sling|Light|Bashing|4|14|25|Ranged|
 |Hatchet|Light|Cutting|7|11|35||
 |Sickle|Light|Cutting|7|11|35||
-|Dagger|Light|Piercing|4|8|+1 to combat|30|
+|Dagger|Light|Piercing|4|8|30|+1 to combat|
 |Mace|1 Handed|Bashing|8|22|50||
 |Battleaxe|1 Handed|Cutting|11|19|70||
 |Cutlass|1 Handed|Cutting|11|19|70||
 |Longsword|1 Handed|Cutting|11|19|70||
-|Bow|1 Handed|Piercing|8|16|60|1 to combat, Ranged|
+|Bow|1 Handed|Piercing|8|16|60|+1 to combat, Ranged|
 |Morningstar|1 Handed|Piercing|8|16|60|+1 to combat|
 |Rapier|1 Handed|Piercing|8|16|60|+1 to combat|
 |Spear|1 Handed|Piercing|8|16|60|+1 to combat|
-|Maul|2 Handed|Bashing|10|26|100||
-|Claymore|2 Handed|Cutting|13|23|140||
-|Great Axe|2 Handed|Cutting|13|23|140||
-|Halberd|2 Handed|Piercing|10|20|120|+1 to combat|
-|Pike|2 Handed|Piercing|10|20|120|+1 to combat|
+|Maul|2 Handed|Bashing|10|26|100|+1 to combat|
+|Claymore|2 Handed|Cutting|13|23|140|+1 to combat|
+|Great Axe|2 Handed|Cutting|13|23|140|+1 to combat|
+|Halberd|2 Handed|Piercing|10|20|120|+2 to combat|
+|Pike|2 Handed|Piercing|10|20|120|+2 to combat|
 
-- A natural twenty transforms a miss to a weak hit, a weak hit to a strong, a strong to a wounding hit, and a wounding hit to a wounding hit with +10.
-- Weapon specialisation grants +2 to hit and can only be applied to a given weapon once. Specialisation applies to all weapons with the same tags (e.g. 1 handed cutting weapons would apply to the longsword, boarding axe, khopesh, and katana but not morning star or claymore)
+- Light weapons may be thrown
+- 2 Handed weapons have greater range and are more able to strike foes without exposing the wielder (+1 on combat)
+- Bashing weapons tend to bounce off target but when the land a solid hit they crush and shatter with greater power than other weapons (+6 damage on strong hit)
+- Piecing weapons are more able to leverage their size for offence and defence increasing their likelihood to wound (+1 on combat)
+- Glancing hits with cutting weapons result in deep slashes, all hits from cutting weapons deal slightly more damage than other weapons (+3 damage on hit)
 
 ### Subsystem
 
@@ -89,7 +96,6 @@ Weapons may have the following properties:
 - **Bashing**: +6 damage on strong hit, bashing weapons tend to bounce off target but when the land a solid hit they crush and shatter with greater power than other weapons
 - **Piercing**: +1 on combat, piecing weapons are more able to leverage their size for offence and defence increasing their likelihood to wound
 - **Cutting**: +3 damage on hit, glancing hits with cutting weapons result in effective slashes, all hits do slightly more damage than other weapons
-
 
 - Cost: 25
   - x2 if 1H
