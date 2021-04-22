@@ -45,42 +45,12 @@ Specific hex cores are required for certain spells. Arcanists may only cast the 
 
 ## Common Cores
 
-- Elm
-- Ash
-- Acacia
-- Alder
-- Yew
-- Maple
-- Cherry
-- Apple
-- Cypress
-- Rosewood
-- Ebony
-- Walnut
-- Mahogany
-- Cedar
-- Fir
-- Birch
-- Hazel
-- Aspen
-- Beech
-- Elder
-- Oak
-- Hawthorn
-- Ivy
-- Pear
-- Pine
-- Poplar
-- Spruce
-- Willow
-
-- Amber
-- Dried blood
-- Horn
-- Bone
-- Sinew
-- Leather
--
+- Amber encrusted pine: Materials, creation, transmutations
+- Troll blood soaked yew: Protection, healing, time
+- Walnut with hag whisker inlay: Emotions, illusions, perception
+- Elm and lycanthrope leather lamellar: Shapeshifting, light, fear
+- Ash scorched in dragon fire: Elements, oaths, truth
+- Holly with orc tusk core: Conjuration, divination, retribution
 
 # Kit
 
