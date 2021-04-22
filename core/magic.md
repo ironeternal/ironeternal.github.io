@@ -1,6 +1,5 @@
 # Magic
 
-![wand](https://cdna.artstation.com/p/assets/images/images/012/680/214/large/jon-cameron-li-entertainment-design-finals-li-yuk-man-jonathan-4.jpg?1535996515)
 
 Humans aren't magic, they can't do magic. They can activate things that are magical. They can capture and channel magical beings. They can invoke existing magical effects.
 
@@ -9,6 +8,8 @@ Humans aren't magic, they can't do magic. They can activate things that are magi
 Certain rituals are only possible at certain points during the day. Some require the full moon, some the midday sun. The ritual to imbue wand cores with magic is only possible at twilight. The ritual is complicated and requires technique, concentration, and precision. Spellcasting is like juggling, greater skill means more balls in the air at once. A more competent witch or wizard is capable of embuing more cores during the crepuscular hour resulting in more spells per day.
 
 Specific hex cores are required for certain spells. Witches and wizards may only cast the set of spells for which they have cores.
+
+![wand](https://cdna.artstation.com/p/assets/images/images/012/680/214/large/jon-cameron-li-entertainment-design-finals-li-yuk-man-jonathan-4.jpg?1535996515)
 
 ## Common Cores
 
@@ -19,9 +20,12 @@ Specific hex cores are required for certain spells. Witches and wizards may only
 - Ash scorched in dragon fire: Elements, oaths, truth
 - Holly with orc tusk core: Conjuration, divination, retribution
 
+
+
 # Casting
 
 Casting a spell will normally require that the caster roll a check. On a strong hit the spell is cast. On a weak hit the core detonates and is destoryed; the spell is cast but the core is no longer usable for spell casting.
 
+.
 
 ![wand](https://pro2-bar-s3-cdn-cf4.myportfolio.com/a84ee720f08e9fab6438b588df6cd45d/54b1b326-3dae-4158-aa8f-3b686195ee6a_rw_1920.jpg?h=be59373c5b2c558e528c8a61ea935e40)

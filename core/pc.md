@@ -160,6 +160,7 @@ On a WEAK hit deal WEAK hit damage. On a STRONG hit deal STRONG hit damage or de
 - Shove: shove the target
 - Disengage: target can not take OOP until their next turn
 - Fient: removes prowess bonus from target defence until their next turn
--
+
+.
 
 ![witches](https://pro2-bar-s3-cdn-cf.myportfolio.com/a84ee720f08e9fab6438b588df6cd45d/b48c274c-3295-4f05-a6b7-c76e6da0c193_rw_1920.jpg?h=4b2378c9d9f0aa981577a75a6a52759e)
