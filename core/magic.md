@@ -1,5 +1,7 @@
 # Magic
 
+![wand](https://cdna.artstation.com/p/assets/images/images/012/680/214/large/jon-cameron-li-entertainment-design-finals-li-yuk-man-jonathan-4.jpg?1535996515)
+
 Humans aren't magic, they can't do magic. They can activate things that are magical. They can capture and channel magical beings. They can invoke existing magical effects.
 
 ## Spell limits

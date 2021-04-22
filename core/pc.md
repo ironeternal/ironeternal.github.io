@@ -44,6 +44,8 @@ Pick 1:
 - Gain one new skill or improve an old one and gain 15 hitpoints
 - Increase your arcane circle by 1 and gain 10 hitpoints
 
+![lighting arrow](https://cdnb.artstation.com/p/assets/images/images/012/680/337/large/jon-cameron-li-entertainment-design-finals-li-yuk-man-jonathan-9.jpg?1535997407)
+
 # Kit
 
 ## Starting kit
