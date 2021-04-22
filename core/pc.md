@@ -55,26 +55,26 @@ All adventurers are equipt with standard adventuring equipment (rope, first aid 
 
 ## Weapons
 
-|Weapon|Weak Hit/Strong Hit|Type|Special|
-|:-|-:|:-|:-|
-|Club|4/14|Light Bashing||
-|Sling|4/14|Light Bashing|Ranged|
-|Hatchet|7/11|Light Cutting||
-|Sickle|7/11|Light Cutting||
-|Dagger|4/8|Light Piercing|+1 to combat|
-|Mace|8/22|1 Handed Bashing||
-|Battleaxe|11/19|1 Handed Cutting||
-|Cutlass|11/19|1 Handed Cutting||
-|Longsword|11/19|1 Handed Cutting||
-|Bow|8/16|1 Handed Piercing|1 to combat, Ranged|
-|Morningstar|8/16|1 Handed Piercing|+1 to combat|
-|Rapier|8/16|1 Handed Piercing|+1 to combat|
-|Spear|8/16|1 Handed Piercing|+1 to combat|
-|Maul|10/26|2 Handed Bashing||
-|Claymore|13/23|2 Handed Cutting||
-|Great Axe|13/23|2 Handed Cutting||
-|Halberd|10/20|2 Handed Piercing|+1 to combat|
-|Pike|10/20|2 Handed Piercing|+1 to combat|
+|Weapon|Weak Hit/Strong Hit|Weapon Type|Cost|Special|
+|:-|:-|:-|:-|:-|
+|Club|4/14|Light Bashing|25||
+|Sling|4/14|Light Bashing|25|Ranged|
+|Hatchet|7/11|Light Cutting|35||
+|Sickle|7/11|Light Cutting|35||
+|Dagger|4/8|Light Piercing|30|+1 to combat|
+|Mace|8/22|1 Handed Bashing|50||
+|Battleaxe|11/19|1 Handed Cutting|70||
+|Cutlass|11/19|1 Handed Cutting|70||
+|Longsword|11/19|1 Handed Cutting|70||
+|Bow|8/16|1 Handed Piercing|60|1 to combat, Ranged|
+|Morningstar|8/16|1 Handed Piercing|60|+1 to combat|
+|Rapier|8/16|1 Handed Piercing|60|+1 to combat|
+|Spear|8/16|1 Handed Piercing|60|+1 to combat|
+|Maul|10/26|2 Handed Bashing|100||
+|Claymore|13/23|2 Handed Cutting|140||
+|Great Axe|13/23|2 Handed Cutting|140||
+|Halberd|10/20|2 Handed Piercing|120|+1 to combat|
+|Pike|10/20|2 Handed Piercing|120|+1 to combat|
 
 - A natural twenty transforms a miss to a weak hit, a weak hit to a strong, a strong to a wounding hit, and a wounding hit to a wounding hit with +10.
 - Weapon specialisation grants +2 to hit and can only be applied to a given weapon once. Specialisation applies to all weapons with the same tags (e.g. 1 handed cutting weapons would apply to the longsword, boarding axe, khopesh, and katana but not morning star or claymore)
@@ -89,6 +89,13 @@ Weapons may have the following properties:
 - **Bashing**: +6 damage on strong hit, bashing weapons tend to bounce off target but when the land a solid hit they crush and shatter with greater power than other weapons
 - **Piercing**: +1 on combat, piecing weapons are more able to leverage their size for offence and defence increasing their likelihood to wound
 - **Cutting**: +3 damage on hit, glancing hits with cutting weapons result in effective slashes, all hits do slightly more damage than other weapons
+
+
+- Cost: 25
+  - x2 if 1H
+  - x4 if 2H
+  - x1.1 if P
+  - x1.2 if S
 
 ## Armour
 
