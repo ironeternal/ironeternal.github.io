@@ -43,38 +43,38 @@ Pick 1:
 
 ## Starting kit
 
-- 2 handed weapon OR 1 handed weapon
-- 1 handed weapon OR light weapon
+- 2 handed weapon or 1 handed weapon
+- 1 handed weapon or light weapon
 - Brigandine armour (min fitness 1, AC +2) or Maile (min fitness 3, AC +4) or Chainkini (+1 charisma)
 - Shield (AC +2) or a tool kit for one skill or breach loaded wand
 - Personal/luxury item (e.g. bottle of wine, scarf, big hat, or arm chair)
 - Sentimnetal item (e.g. locket, ring, or photograph)
 - Quest item (e.g. broken sword hilt, mysterious key, torn letter, or treasure map)
 
-All adventurers are equipt with standard adventuring equipment (rope, bedroll, waterskin, etc).
+All adventurers are equipt with standard adventuring equipment (rope, first aid kit, tinderbox, bedroll, waterskin, etc).
 
 ## Weapons
 
-|Weapon|Usage|Damage Type|Weak Hit|Strong Hit|Special|
-|:-|:-|:-|-:|-:|:-|
-|Club|Light|Bashing|4|14||
-|Sling|Light|Bashing|4|14||
-|Hatchet|Light|Cutting|7|11||
-|Sickle|Light|Cutting|7|11|Ranged|
-|Dagger|Light|Piercing|4|8|+1 to combat|
-|Mace|1 Handed|Bashing|8|22||
-|Battleaxe|1 Handed|Cutting|11|19||
-|Cutlass|1 Handed|Cutting|11|19||
-|Longsword|1 Handed|Cutting|11|19||
-|Bow|1 Handed|Piercing|8|16|1 to combat, Ranged|
-|Morningstar|1 Handed|Piercing|8|16|+1 to combat|
-|Rapier|1 Handed|Piercing|8|16|+1 to combat|
-|Spear|1 Handed|Piercing|8|16|+1 to combat|
-|Maul|2 Handed|Bashing|10|26||
-|Claymore|2 Handed|Cutting|13|23||
-|Great Axe|2 Handed|Cutting|13|23||
-|Halberd|2 Handed|Piercing|10|20|+1 to combat|
-|Pike|2 Handed|Piercing|10|20|+1 to combat|
+|Weapon|Weak Hit/Strong Hit|Type|Special|
+|:-|-:|:-|:-|
+|Club|4/14|Light Bashing||
+|Sling|4/14|Light Bashing|Ranged|
+|Hatchet|7/11|Light Cutting||
+|Sickle|7/11|Light Cutting||
+|Dagger|4/8|Light Piercing|+1 to combat|
+|Mace|8/22|1 Handed Bashing||
+|Battleaxe|11/19|1 Handed Cutting||
+|Cutlass|11/19|1 Handed Cutting||
+|Longsword|11/19|1 Handed Cutting||
+|Bow|8/16|1 Handed Piercing|1 to combat, Ranged|
+|Morningstar|8/16|1 Handed Piercing|+1 to combat|
+|Rapier|8/16|1 Handed Piercing|+1 to combat|
+|Spear|8/16|1 Handed Piercing|+1 to combat|
+|Maul|10/26|2 Handed Bashing||
+|Claymore|13/23|2 Handed Cutting||
+|Great Axe|13/23|2 Handed Cutting||
+|Halberd|10/20|2 Handed Piercing|+1 to combat|
+|Pike|10/20|2 Handed Piercing|+1 to combat|
 
 - A natural twenty transforms a miss to a weak hit, a weak hit to a strong, a strong to a wounding hit, and a wounding hit to a wounding hit with +10.
 - Weapon specialisation grants +2 to hit and can only be applied to a given weapon once. Specialisation applies to all weapons with the same tags (e.g. 1 handed cutting weapons would apply to the longsword, boarding axe, khopesh, and katana but not morning star or claymore)
