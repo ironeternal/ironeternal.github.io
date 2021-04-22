@@ -4,7 +4,7 @@ Quick gen:
 
 1. 6 x [d6-d6] in order
 2. 3d3 for character advancements (1 prowess, 2 skills, 3 cores)
-3. Roll for skills
+3. 3d10 Roll for skills
 4. Select kit
 
 ## Stats (6 x [d6-d6])
@@ -16,12 +16,12 @@ Quick gen:
 - Charisma
 - Luck
 
-## Skills (+3):
+## Skills (+3, maybe be picked a second time for +6):
 
-1. Nature: bushcraft, herbology, animal husbandry, tracking
-1. Engineering: mathematics, architecture, material sciences
-1. Arcane: wands, spells, places, constructs
-1. World: religion, culture, history
+1. Nature: monsters, bushcraft, herbology, animal husbandry, tracking
+1. Engineering: constructs, mathematics, architecture, material sciences
+1. Arcane: wands, spells, places, alchemy
+1. World: gods, religion, culture, history
 1. Local X: neighbourhoods, streets, buyers, sellers, factions
 1. Profession X: Craft specific skills (tailor, accountant, jeweller)
 1. Medicine: first aid, pathology, autopsy, diagnosis
@@ -33,16 +33,54 @@ Quick gen:
 
 Pick 1:
 
-- +1 Prowess
-- +1 Skills
-- +1 Cores/day
+- +1 to combat prowess, add a weapon specialisation
+- Gain one new skill or improve an old one
+- Increase your arcane circle by 1
 
 # Magic
 
 Certain rituals are only possible at certain points during the day. Some require the full moon, some the midday sun. The ritual to imbue wand cores with magic is only possible at twilight. The ritual is complicated and requires technique, concentration, and precision. Spellcasting is like juggling, greater skill means more balls in the air at once. A more competent arcanist is capable of embuing more cores during the crepuscular hour resukting in more spells per day.
 
-
 Specific hex cores are required for certain spells. Arcanists may only cast the set of spells for which they have cores.
+
+## Common Cores
+
+- Elm
+- Ash
+- Acacia
+- Alder
+- Yew
+- Maple
+- Cherry
+- Apple
+- Cypress
+- Rosewood
+- Ebony
+- Walnut
+- Mahogany
+- Cedar
+- Fir
+- Birch
+- Hazel
+- Aspen
+- Beech
+- Elder
+- Oak
+- Hawthorn
+- Ivy
+- Pear
+- Pine
+- Poplar
+- Spruce
+- Willow
+
+- Amber
+- Dried blood
+- Horn
+- Bone
+- Sinew
+- Leather
+-
 
 # Kit
 
@@ -60,14 +98,14 @@ All adventurers are equipt with standard adventuring equipment (rope, bedroll, w
 
 ## Weapons
 
-Weapons have the following properties
+Weapons may have the following properties:
 
 - **Light**: 4/8 damage, light weapons may be thrown
 - **1 Handed**: 8/16 damage
 - **2 Handed**: 10/20 damage, +1 on combat
 - **Bashing**: +weak damage on strong hit, bashing weapons tend to bounce off target but when the land a solid hit they crush and shatter with greater power than other weapons
 - **Piercing**: +1 on combat, piecing weapons are more able to leverage their size for offence and defence increasing their likelihood to wound
-- **Slashing**: +3 damage on hit, glancing hits with slashing weapons result in effective slashes, all hits do slightly more damage than other weapons
+- **Cutting**: +3 damage on hit, glancing hits with cutting weapons result in effective slashes, all hits do slightly more damage than other weapons
 
 Examples include:
 - Short spear: 8/16, +1 on combat
@@ -80,21 +118,25 @@ Examples include:
 - Sling: 4/12
 
 
-A natural twenty transforms a miss to a weak hit, a weak hit to a strong, a strong to a wounding hit, and a wounding hit to a wounding hit with +10.
+Else
+
+- A natural twenty transforms a miss to a weak hit, a weak hit to a strong, a strong to a wounding hit, and a wounding hit to a wounding hit with +10.
+- Weapon specialisation grants +2 to hit and can only be applied to a given weapon once. Specialisation applies to all weapons with the same tags (e.g. 1 handed cutting weapons would apply to the longsword, boarding axe, khopesh, and katana but not morning star or claymore)
 
 ## Armour
 
 |Armour|AC bonus|Minimum Fitness|Cost (sp)|Notes|
 |:-|-:|-:|-:|
-|Chainkini*|0|0|5|+1 charisma|
+|Chainkini*|0|0|25|+1 charisma|
 |Brigandine|2|1|50||
-|Maile|4|3|75||
+|Maile|4|3|400||
 |Curaiss|5|3|800||
-|Panopoly|6|4|3000||
+|Panopoly|6|4|1600||
 |Shield|2|1|50||
 
-> *Maile of all kinds is considered a status symbol. Jewellery is often constructed with it. Wearing only large-linked chainmail and neglecting actual defence is a statement of profound confidence and skill. Warriors, civillians, and monsters all recognise it as a profound statment.
+> *Maile of all kinds is considered a status symbol. Jewellery is often constructed with it. Wearing only large-linked chainmail and neglecting actual defence is a symbol of confidence and skill. Warriors, civillians, and monsters all recognise it as a profound statment.
 
 
-tool kit 50sp
-wand 50sp
+### Subsystem:
+- Cost: 25*2^AC
+- Min fitness: (AC) / 2 (rounded up)
