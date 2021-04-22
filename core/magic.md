@@ -24,7 +24,7 @@ Specific hex cores are required for certain spells. Witches and wizards may only
 
 Casting a spell will normally require that the caster roll a check. On a strong hit the spell is cast. On a weak hit the core detonates and is destoryed; the spell is cast but the core is no longer usable for spell casting.
 
-.
+
 
 ![wand](https://cdna.artstation.com/p/assets/images/images/012/680/214/large/jon-cameron-li-entertainment-design-finals-li-yuk-man-jonathan-4.jpg?1535996515)
 
@@ -57,10 +57,44 @@ nothin' yet
 nothin' yet
 
 ## Charisma: Illusion, Mystcism
-- Charm person (charisma/short/person/1 hour): The person regards you as a good friend and ignores the obvious spell you just cast on them.
-- Color Spray (charisma/15' cone/sighted creatures/1d6 rounds): All creatures within range are befuddled.
-- Death Mask (Charisma/touch/humanoid corpse/till sunrise): You touch a corpse and the face peels off like a mask, while the rest of the corpse quickly rots into dust. When you (and only you) wear the mask, you will look and sound like the person whose face you're wearing, but only to sentient people (no effect on animals, spirits, or constructs). The mask will rot into uselessness after 1 day.
-- Death Scythe (charisma/touch/corpse/1 hour): The corpse disintegrates as you pluck a black scythe from its center of mass. This scythe is a +1 scythe (14/24, +1 to combat, 2 handed) that deals double damage to creatures of the same type. (For example, a scythe made from a troll corpse would deal double damage to trolls.) This spell consumes the corpse.
+- **Charm person** (charisma/short/person/1 hour): The person regards you as a good friend and ignores the obvious spell you just cast on them.
+- **Color Spray** (charisma/15' cone/sighted creatures/1d6 rounds): All creatures within range are befuddled.
+- **Death Mask** (Charisma/touch/humanoid corpse/till sunrise): You touch a corpse and the face peels off like a mask, while the rest of the corpse quickly rots into dust. When you (and only you) wear the mask, you will look and sound like the person whose face you're wearing, but only to sentient people (no effect on animals, spirits, or constructs).
+
+
+Disguise
+Explode corpse
+Fear
+Feather
+Fireball
+Floating disk
+Grease
+Levitate
+Lock
+Illusion
+Invisibility
+Light
+Mage Armor
+Magic Missle
+Mirror Object
+Raise _____
+Rot
+Scry
+Sleep
+Anthropomorphise
+Banalize
+Catherine
+Defoliate
+Detect Magic
+Fog cloud
+Null magic
+Counterspell
+Accio (filtch)
+Expelliarmus –to disarm your opponent.
+Aguamenti - Summons water
+Ascendio - Propells someone into the air
+Glisseo - Transforms a staircase into a slide
+
 
 # Magical effects
 ## Befuddled
