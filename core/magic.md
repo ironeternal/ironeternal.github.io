@@ -33,67 +33,53 @@ Casting a spell will normally require that the caster roll a check. On a strong 
 
 # Spells
 
-- Amber encrusted pine: Materials, creation, transmutations
-- Troll blood soaked yew: Protection, healing, time
-- Walnut with hag whisker inlay: Emotions, illusions, perception
-- Elm and lycanthrope leather lamellar: Shapeshifting, light, fear
-- Ash scorched in dragon fire: Elements, oaths, truth
-- Holly with orc tusk core: Conjuration, divination, retribution
+|Core|Corp|Key Attribute|Domain|
+|:-|:-|:-|:-|
+|Holly with orc tusk core              |Regular         |Education  |Supplies, cover, movement, comforts     |
+|Amber encrusted pine                  |Engineer        |Education  |Logistics, construction, fortification  |
+|Troll blood soaked yew                |Medic           |Wits       |Healing, defence, threat nullification  |
+|Ash scorched in dragon fire           |Special forces  |Wits       |Reconasaunce, autonomy, destruction     |
+|Walnut with hag whisker inlay         |Intelligence    |Charisma   |Disguises, deception, infiltration      |
+|Elm and lycanthrope leather lamellar  |Officer         |Charisma   |Divination, commands, distration, order |
 
-# Spell Schools
-- **Illusion (Charisma):** Spells that alter perception, such as Invisibility and Charm.
-- **Conjuration (Education):** Spells that summon creatures and equipment from other worlds, such as Bound Items and Summon.
-- **Alteration (Education):** Spells that manipulate the laws of nature, such as Water Breathing and Levitation.
-- **Destruction (Wits):** Spells that cause physical harm, such as Fire Damage and Damage Attribute.
-- **Mysticism (Charisma):**  Spells that shape and focus ethereal forces, such as Telekinesis and Soultrap.
-- **Restoration (Wits):** Spells that heal, such as Restore Health and Cure Common Disease.
+# Spell Lists
 
-## Education: Alteration, conjuration
-
-nothin' yet
-
-## Wits: Destruction, restoration
-
-nothin' yet
-
-## Charisma: Illusion, Mystcism
-- **Charm person** (charisma/short/person/1 hour): The person regards you as a good friend and ignores the obvious spell you just cast on them.
-- **Color Spray** (charisma/15' cone/sighted creatures/1d6 rounds): All creatures within range are befuddled.
-- **Death Mask** (Charisma/touch/humanoid corpse/till sunrise): You touch a corpse and the face peels off like a mask, while the rest of the corpse quickly rots into dust. When you (and only you) wear the mask, you will look and sound like the person whose face you're wearing, but only to sentient people (no effect on animals, spirits, or constructs).
-
-
-Disguise
-Explode corpse
-Fear
-Feather
-Fireball
-Floating disk
-Grease
-Levitate
-Lock
-Illusion
-Invisibility
-Light
-Mage Armor
-Magic Missle
-Mirror Object
-Raise _____
-Rot
-Scry
-Sleep
-Anthropomorphise
-Banalize
-Catherine
-Defoliate
-Detect Magic
-Fog cloud
-Null magic
-Counterspell
-Accio (filtch)
-Expelliarmus –to disarm your opponent.
-Aguamenti - Summons water
-Ascendio - Propells someone into the air
-Glisseo - Transforms a staircase into a slide
+- **Holly with orc tusk core - Regular - Education**: Regular troops are equip with alteration magic to enable their assaults and conjuration to requisition required resources in times of need
+  - Fog cloud
+  - Aguamenti
+  - Filtch
+  - Catherine
+  - Spiderclimb
+- **Amber encrusted pine - Engineer - Education**: Pine cores are used by engineers for alteraion and conjuration magic to create fortifications, bolster logistics, and sabotage structures.
+  - Floating disk
+  - Levitate
+  - Lock
+  - Mirror Object
+  - Catherine
+- **Troll blood soaked yew - Medic - Wits**: Medics use restoration magic to heal and fortify their allies. Running into the front lines they also maintain some destructive capability.
+  - Light
+  - Mage Armor
+  - Magic Missle
+  - Expelliarmus
+  - Cure wounds
+- **Ash scorched in dragon fire - Special forces - Wits**: Special forces troups are equip with the most power destructive magic and some healing to create autonomous units that can operate effictively during deep reconasaunce.
+  - Feather
+  - Fireball
+  - Raise _____
+  - Ascendio
+  - Cure wounds
+- **Walnut with hag whisker inlay - Intelligence - Charisma**: Intelligence agents use divination and illusion to gather intelligence while remaining hidden and performing counter intelligence activities.
+  - Charm person
+  - Disguise
+  - Illusion
+  - Invisibility
+  - Death Mask
+- **Elm and lycanthrope leather lamellar - Officer - Charisma:** Officers utilise mysticism to garner information, guide the troops, and coordinate complex movements.
+  - Fear
+  - Illusion
+  - Sleep
+  - Magic Mouth
+  - Scry
 
 
 # Magical effects
