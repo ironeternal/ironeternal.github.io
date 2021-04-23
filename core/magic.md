@@ -9,9 +9,9 @@ Humans aren't magic, they can't do magic. They can activate things that are magi
 Certain rituals are only possible at certain points during the day. Some require the full moon, some the midday sun. The ritual to imbibe
 
 
-The ritual to embue arcane iccor with vril is only possible at twilight when crepuscular light filters through the iccor revealing certain impurities. The ritual is complicated and requires technique, concentration, and precision. Spellcasting is like juggling, greater skill means more balls in the air at once. A more competent witch or wizard is capable of embuing more vial during the hour resulting in more spells per day.
+The ritual to embue demon blood with vril is only possible at twilight when crepuscular light filters through the arcane iccor revealing certain impurities. The ritual is complicated and requires technique, concentration, and precision. Spellcasting is like juggling, greater skill means more balls in the air at once. A more competent witch or wizard is capable of purifying more vials during the hour resulting in more spells per day.
 
-Specific hex cores are required for certain spells. Witches and wizards may only cast the set of spells for which they have cores.
+Specific wands and cores are required for certain spells. Witches and wizards may only cast the set of spells for which they have cores.
 
 ![wand](https://cdna.artstation.com/p/assets/images/images/012/680/214/large/jon-cameron-li-entertainment-design-finals-li-yuk-man-jonathan-4.jpg?1535996515)
 
@@ -35,53 +35,25 @@ The composition of wands and cores results in a finite number of spells being av
 
 Three common wand configurations are as follows:
 - All seeing owl: Walnut with hag whisker inlay
-  - Sun: Mysticism (C)
-    1. Raise _____
-    2. Death Mask
-    3. Scry
-  - Moon: Conjuration (E)
-    1. Fog cloud
-    2. Catherine
-  - Stars: Illusion (C)
-    1. Illusion
-  - Fool: Illusion (C)
-    1. Sleep
+  - **Sun: Mysticism (C)**: Raise _____, Death Mask, Scry
+  - **Moon: Conjuration (E)**: Fog cloud, Catherine
+  - **Stars: Illusion (C)**: Illusion
+  - **Fool: Illusion (C)**: Sleep
 - Goblin Switchblade: Holly with goblin tusk core
-  - Sun: Conjuration (E)
-    1. Floating disk
-    2. Mirror Object
-    3. Filtch
-  - Moon: Destruction (W)
-    1. Light
-    2. Fireball
-  - Stars: Alteration (E)
-    1. Spiderclimb
-  - Fool: Illusion (C)
-    1. Fear
+  - **Sun: Conjuration (E)**: Floating disk, Mirror Object, Filtch
+  - **Moon: Destruction (W)**: Light, Fireball
+  - **Stars: Alteration (E)**: Spiderclimb
+  - **Fool: Illusion (C)**: Fear
 - Hellscream Dragon: Ash scorched in dragon fire
-  - Sun: Destruction (W)
-    1. Magic Missle
-    2. Fireball
-    3. Ascendio
-  - Moon: Conjuration (E)
-    1. Fog cloud
-    2. Mirror Object
-  - Stars: Restoration (W)
-    1. Cure wounds
-  - Fool: Mysticism (C)
-    1. Death Mask
+  - **Sun: Destruction (W)**: Magic Missle, Fireball, Ascendio
+  - **Moon: Conjuration (E)**: Fog cloud, Mirror Object
+  - **Stars: Restoration (W)**: Restore Health
+  - **Fool: Mysticism (C)**: Death Mask
 - Blackwing Angel: Troll blood soaked yew
-  - Sun: Restoration (W)
-    1. Light
-    2. Mage Armor
-    3. Cure wounds
-  - Moon: Alteration (E)
-    1. Spiderclimb
-    2. Levitate
-  - Stars: Destruction (W)
-    1. Expelliarmus
-  - Fool: Mysticism (C)
-    1. Magic Mouth
+  - **Sun: Restoration (W)**: Light, Mage Armor, Restore Health
+  - **Moon: Alteration (E)**: Spiderclimb, Levitate
+  - **Stars: Destruction (W)**: Expelliarmus
+  - **Fool: Mysticism (C)**: Magic Mouth
 
 # Casting
 
