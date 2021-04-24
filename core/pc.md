@@ -4,8 +4,7 @@
 
 Quick gen:
 
-1. Characters start with 20 hit points
-1. 4 x [d6-d6] in order or stat array of [5,3,2,0]
+1. 4 x [d6-d6] in order
 2. 3d6 for character advancements (1-2 prowess, 3-4 skills, 5-6 arcane)
 3. 3d10 Roll for skills
 4. Select kit
@@ -41,9 +40,9 @@ Stats may never exceed 6 without magic. 12 with magic.
 
 Pick 1:
 
-- +1 to combat prowess and gain 10 hitpoints
-- Gain one new skill or improve an old one and gain 5 hitpoints
-- Pick one magical tradition, learn one new spell from that tradition and increase your arcane power in that tradition by 1
+- +1 to combat prowess and gain 20 hitpoints
+- Gain one new skill or improve an old one and gain 15 hitpoints
+- Pick one magical tradition, learn one new spell from that tradition and increase your arcane power in that tradition by 1, and gain 10 hitpoints
 
 [Spell list and traditions can be found here](spells.md)
 
@@ -143,7 +142,7 @@ On a WEAK hit deal WEAK hit damage. On a STRONG hit deal STRONG hit damage or de
 
 You may cast any spell you know as many times per day as you like. To cast a spell find the power cost of the spell, subtract it from your avaliable arcane power to find your spell casting modifier. Roll 1d20 adding your spell casting modifier to the roll. If the result is 10 or higher the spell is cast successfully, on a 9 or less the spell fizzles and nothing happens. The saving throw DC for a spell is equal to 10 + your spellcasting modifier.
 
-You can NOT maintain concentration on a spell that you have a negative spell modifier for, the casting automatically fails.
+You can NOT maintain concentration on a spell that you have a negative spell modifier for, checks to maintain concentration automatically fail.
 
 Your arcane power must be assigned to a specific demon lord (e.g. Drakon, Orlock, or Moloch) and only applies to spells within their tradition. You may attempt to cast any spell from any tradtion that you have at least one point of arcane power with a -5 penalty to your spell modifier.
 

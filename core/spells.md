@@ -147,7 +147,7 @@
 - 8hp, 11AC, he's to cowardly to fight but easily lift a large man (120kg+) over his head and never gets tired.
 
 #### Lay Claim: Rip and steal what is rightfully yours
-- P:X/R:near/T:object/D:instant/S:Power
+- P:0/R:near/T:object/D:instant/S:Power
 - Yank a small item (8kg or less) from across the room to your hand. No save for items not held or tied down. (functionally indentical to render helpless)
 
 #### Moltano: Reduce an object to a pile of molten slag
@@ -171,7 +171,7 @@
 - Tear the face from a corpse, when you and only you wear the face you appear as the orignal owner. This does not effect your clothes, memory, or voice
 
 #### Render helpless: Disarm a victim, rendering them helpless
-- P:X/R:near/T:object/D:instant/S:Power
+- P:0/R:near/T:object/D:instant/S:Power
 - Disarm an enemy and grab their weapon (functionally indentical to lay claim)
 
 #### Scaleskin: Shrug of injurying with inpenetrable Scaleskins
