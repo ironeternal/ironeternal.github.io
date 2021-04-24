@@ -85,7 +85,7 @@ All adventurers are equipt with standard adventuring equipment (rope, first aid 
 |Halberd|2 Handed|Piercing|10|20|120|+2 to combat|
 |Pike|2 Handed|Piercing|10|20|120|+2 to combat|
 |-|-|-|-|-|-|-|
-|Sling|Light|Bashing|4|14|25|Ranged|
+|Sling|1 Handed|Bashing|4|14|25|Ranged|
 |Bow|2 Handed|Piercing|8|16|60|+1 to combat, Ranged|
 
 - Light weapons may be thrown
