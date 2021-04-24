@@ -6,7 +6,7 @@ Quick gen:
 
 1. Characters start with 20 hit points
 1. 4 x [d6-d6] in order or stat array of [5,3,2,0]
-2. 3d6 for character advancements (1-2 prowess, 3-4 skills, 5-6 cores)
+2. 3d6 for character advancements (1-2 prowess, 3-4 skills, 5-6 arcane)
 3. 3d10 Roll for skills
 4. Select kit
 4. 3d3 for traditions (1-2 drakon, 3-4 orlok, 5-6 moloch) and 3d10 for spells
@@ -15,27 +15,27 @@ Quick gen:
 
 ## Stats (6 x [d6-d6])
 
-- Power: gross motor skills, strength, power, stamina, flexibility
-- Finese: Fine motor skills, dexterity, agility, coordination, balance
-- Brains: Raw intelligence, wits, instinct, problem solving, pattern recognition, quick thinking
-- Will: Willpower, mental reslience, resolve, fortitude, conviction
+- **Power**: gross motor skills, strength, power, stamina, flexibility
+- **Finese**: Fine motor skills, dexterity, agility, coordination, balance
+- **Brains**: Raw intelligence, wits, instinct, problem solving, pattern recognition, quick thinking
+- **Will**: Willpower, mental reslience, resolve, fortitude, conviction
 
 Stats may never exceed 6 without magic. 12 with magic.
 
-> brains does not represent your education, it represents your general intelligence. An educated character may have low brains but will have skills 
+> brains does not represent your education, it represents your general intelligence. An educated character may have low brains but **will** have skills 
 
 ## Skills (+3, may be picked a second time for +6):
 
-1. Natural world: monsters, bushcraft, herbology, animal husbandry, tracking
-1. Engineering: constructs, mathematics, architecture, material sciences
-1. Magic and the occult: wands, spells, demons, alchemy
-1. History and people: accents, customs, geography, religion, culture, history
-1. Local X: neighbourhoods, streets, buyers, sellers, factions
-1. Profession X: Craft specific skills (tailor, accountant, jeweller)
-1. Medicine: first aid, pathology, autopsy, diagnosis
-1. Stealth: concealing, camoplauge, hiding, sneaking, covering tracks
-1. Larceny: lockpicking, safe cracking, breaking and entering
-1. Speech: persuasion, negotiation, oration, accents
+1. **Natural world: monsters**, bushcraft, herbology, animal husbandry, tracking
+1. **Engineering: constructs**, mathematics, architecture, material sciences
+1. **Magic and the occult**: wands, spells, demons, alchemy
+1. **History and people**: accents, customs, geography, religion, culture, history
+1. **Local X**: neighbourhoods, streets, buyers, sellers, factions
+1. **Profession X**: Craft specific skills (tailor, accountant, jeweller)
+1. **Medicine**: first aid, pathology, autopsy, diagnosis
+1. **Stealth**: concealing, camoplauge, hiding, sneaking, covering tracks
+1. **Larceny**: lockpicking, safe cracking, breaking and entering
+1. **Speech**: persuasion, negotiation, oration, accents
 
 ## Level up
 
@@ -53,7 +53,7 @@ Pick 1:
 
 - 2 handed weapon or 1 handed weapon
 - 1 handed weapon or light weapon
-- Brigandine armour (min fitness 1, AC +2) or Maile (min fitness 3, AC +4) or Chainkini (+1 charisma)
+- Brigandine armour (min Power 1, AC +2) or Maile (min Power 3, AC +4) or Chainkini (+1 on social rolls)
 - Shield (AC +2) or a tool kit for one skill or breach loaded wand
 - Personal/luxury item (e.g. bottle of wine, scarf, big hat, or arm chair)
 - Sentimnetal item (e.g. locket, ring, or photograph)
@@ -95,9 +95,9 @@ All adventurers are equipt with standard adventuring equipment (rope, first aid 
 
 ## Armour
 
-|Armour|AC bonus|Minimum Fitness|Cost (sp)|Notes|
+|Armour|AC bonus|Minimum Power|Cost (sp)|Notes|
 |:-|-:|-:|-:|
-|Chainkini*|0|0|25|+1 charisma|
+|Chainkini*|0|0|25|+1 on social rolls|
 |Brigandine|2|1|100||
 |Maile|4|3|400||
 |Curaiss|5|3|800||
@@ -117,26 +117,25 @@ Roll 2d20 + Skill + Ability vs DC or 10 + Skill + Ability
 
 ## Combat
 
-Roll 2d20 + combat (fitness (or dexterity if ranged) + prowess + weapon bonus + AC) vs defence (10 + AC + prowess)
+Roll 2d20 + combat (Power (or Finese if ranged) + prowess + weapon bonus + AC) vs defence (10 + AC + prowess)
 
 - if 2 rolls are greater than threshold its a STRONG hit
 - if 1 roll is greater than threshold its a WEAK hit
 - if no rolls are greater than threshold its a FAIL
 
-On a WEAK hit deal WEAK hit damage. On a STRONG hit deal STRONG hit damage or deal WEAK hit damage and perform a special attack. Fitness is added to all melee attack rolls, only the bow and sling use dexterity to hit.
+On a WEAK hit deal WEAK hit damage. On a STRONG hit deal STRONG hit damage or deal WEAK hit damage and perform a special attack. Power is added to all melee attack rolls, only the bow and sling use Finese to hit.
 
-- WEAK hit damage: WEAK + fitness
-- STRONG hit damage: STRONG + fitness
+- WEAK hit damage: WEAK + Power
+- STRONG hit damage: STRONG + Power
 
 ### Special Attacks
 
-- Targeted shot: hit a specific part of the target
-- Disarm: disarm the target
-- Trip: trip the target
-- Shove: shove the target
-- Disengage: target can not take OOP until their next turn
-- Fient: removes prowess bonus from target defence until their next turn
-
+- **Targeted**: hit a specific part of the target
+- **Disarm**: disarm the target
+- **Trip**: trip the target
+- **Shove**: shove the target
+- **Disengage**: target can not take OOP until their next turn
+- **Fient**: removes prowess bonus from target defence until their next turn
 
 ## Magic
 
