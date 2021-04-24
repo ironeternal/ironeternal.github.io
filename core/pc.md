@@ -7,10 +7,20 @@ Quick gen:
 1. 4 x [d6-d6] in order
 2. 3d6 for character advancements (1-2 prowess, 3-4 skills, 5-6 arcane)
 3. 3d10 Roll for skills
-4. Select kit
 4. 3d3 for traditions (1-2 drakon, 3-4 orlok, 5-6 moloch) and 3d10 for spells
+4. Select kit
  
 > All characters start at level 3
+
+## Level up
+
+Pick 1:
+
+- +1 to combat prowess and gain 20 hitpoints
+- Gain one new skill or improve an old one and gain 15 hitpoints
+- Pick one magical tradition, learn one new spell from that tradition and increase your arcane power in that tradition by 1, and gain 10 hitpoints
+
+[Spell list and traditions can be found here](spells.md)
 
 ## Stats (6 x [d6-d6])
 
@@ -36,16 +46,6 @@ Stats may never exceed 6 without magic. 12 with magic.
 1. **Larceny**: lockpicking, safe cracking, breaking and entering
 1. **Speech**: persuasion, negotiation, oration, accents
 
-## Level up
-
-Pick 1:
-
-- +1 to combat prowess and gain 20 hitpoints
-- Gain one new skill or improve an old one and gain 15 hitpoints
-- Pick one magical tradition, learn one new spell from that tradition and increase your arcane power in that tradition by 1, and gain 10 hitpoints
-
-[Spell list and traditions can be found here](spells.md)
-
 # Kit
 
 ## Starting kit
@@ -53,7 +53,8 @@ Pick 1:
 - 2 handed weapon or 1 handed weapon
 - 1 handed weapon or light weapon
 - Brigandine armour (min Power 1, AC +2) or Maile (min Power 3, AC +4) or Chainkini (+1 on social rolls)
-- Shield (AC +2) or a tool kit for one skill or breach loaded wand
+- Shield (AC +2) or a tool kit for one skill or 50sp
+- breach loaded wand
 - Personal/luxury item (e.g. bottle of wine, scarf, big hat, or arm chair)
 - Sentimnetal item (e.g. locket, ring, or photograph)
 - Quest item (e.g. broken sword hilt, mysterious key, torn letter, or treasure map)
@@ -68,7 +69,6 @@ All adventurers are equipt with standard adventuring equipment (rope, first aid 
 |Weapon|Usage|Damage Type|Weak Hit|Strong Hit|Cost|Special|
 |:-|:-|:-|:-|:-|:-|:-|
 |Club|Light|Bashing|4|14|25||
-|Sling|Light|Bashing|4|14|25|Ranged|
 |Hatchet|Light|Cutting|7|11|35||
 |Sickle|Light|Cutting|7|11|35||
 |Dagger|Light|Piercing|4|8|30|+1 to combat|
@@ -76,7 +76,6 @@ All adventurers are equipt with standard adventuring equipment (rope, first aid 
 |Battleaxe|1 Handed|Cutting|11|19|70||
 |Cutlass|1 Handed|Cutting|11|19|70||
 |Longsword|1 Handed|Cutting|11|19|70||
-|Bow|1 Handed|Piercing|8|16|60|+1 to combat, Ranged|
 |Morningstar|1 Handed|Piercing|8|16|60|+1 to combat|
 |Rapier|1 Handed|Piercing|8|16|60|+1 to combat|
 |Spear|1 Handed|Piercing|8|16|60|+1 to combat|
@@ -85,6 +84,9 @@ All adventurers are equipt with standard adventuring equipment (rope, first aid 
 |Great Axe|2 Handed|Cutting|13|23|140|+1 to combat|
 |Halberd|2 Handed|Piercing|10|20|120|+2 to combat|
 |Pike|2 Handed|Piercing|10|20|120|+2 to combat|
+|-|-|-|-|-|-|-|
+|Sling|Light|Bashing|4|14|25|Ranged|
+|Bow|2 Handed|Piercing|8|16|60|+1 to combat, Ranged|
 
 - Light weapons may be thrown
 - 2 Handed weapons have greater range and are more able to strike foes without exposing the wielder (+1 on combat)
