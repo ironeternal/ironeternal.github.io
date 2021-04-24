@@ -1,6 +1,5 @@
 # Traditions
 
-
 ![wand](https://cdna.artstation.com/p/assets/images/images/012/680/214/large/jon-cameron-li-entertainment-design-finals-li-yuk-man-jonathan-4.jpg?1535996515)
 
 ## **Drakon**: The flame of hell
