@@ -140,7 +140,7 @@ On a WEAK hit deal WEAK hit damage. On a STRONG hit deal STRONG hit damage or de
 
 ## Magic
 
-[Spell list can be found here](spells.md)
+[Spell list can be found here](https://ironeternal.github.io/core/spells#spellbook)
 
 You may cast any spell you know as many times per day as you like. To cast a spell find the power cost of the spell, subtract it from your avaliable arcane power to find your spell casting modifier. Roll 1d20 adding your spell casting modifier to the roll. If the result is 10 or higher the spell is cast successfully, on a 9 or less the spell fizzles and nothing happens. The saving throw DC for a spell is equal to 10 + your spellcasting modifier.
 
