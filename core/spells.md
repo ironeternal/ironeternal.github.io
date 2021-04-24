@@ -1,3 +1,8 @@
+# Traditions
+
+
+![wand](https://cdna.artstation.com/p/assets/images/images/012/680/214/large/jon-cameron-li-entertainment-design-finals-li-yuk-man-jonathan-4.jpg?1535996515)
+
 ## **Drakon**: The flame of hell
 
 > Drakon the inferal dragon of hell. Progenitor of all terrible lizards and the heat within flames. Followers of his tradition are proud, greedy, covertous, and cunning. They're driven to win and dominate others. They will unfailingly enter into competiotions and duels and are quick to decorate their clothing and accomodations. At arcane power level 6, his followers permanently gain the benefits of Bind Wings and no longer need to cast it (and a new spell to replace it if they had it previously).
@@ -56,6 +61,8 @@
 - To do
 
 
+
+![orlock](https://pbs.twimg.com/media/ExppGqQWEAIVY1H?format=jpg&name=900x900)
 
 # Spellbook
 
