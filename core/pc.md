@@ -6,8 +6,8 @@ Quick gen:
 
 1. 4 x [d6-d6] in order
 2. 3d6 for character advancements (1-2 prowess, 3-4 skills, 5-6 arcane)
-3. 3d10 Roll for skills
-4. 3d3 for traditions (1-2 drakon, 3-4 orlok, 5-6 moloch) and 3d10 for spells
+3. 3d10 Roll for skills (if you have any)
+4. 3d30 for traditions and spells (1-10 drakon, 11-20 orlok, 21-30 moloch) (if you have any)
 4. Select kit
  
 > All characters start at level 3
@@ -18,7 +18,7 @@ Pick 1:
 
 - +1 to combat prowess and gain 20 hitpoints
 - Gain one new skill or improve an old one and gain 15 hitpoints
-- Pick one magical tradition, learn one new spell from that tradition and increase your arcane power in that tradition by 1, and gain 10 hitpoints
+- Increase your arcane power one in magical tradition, learn one new spell from that tradition, and gain 10 hitpoints
 
 [Spell list and traditions can be found here](spells.md)
 
@@ -84,7 +84,7 @@ All adventurers are equipt with standard adventuring equipment (rope, first aid 
 |Great Axe|2 Handed|Cutting|13|23|140|+1 to combat|
 |Halberd|2 Handed|Piercing|10|20|120|+2 to combat|
 |Pike|2 Handed|Piercing|10|20|120|+2 to combat|
-|-|-|-|-|-|-|-|
+|.|.|.|.|.|.|.|
 |Sling|1 Handed|Bashing|4|14|25|Ranged|
 |Bow|2 Handed|Piercing|8|16|60|+1 to combat, Ranged|
 
