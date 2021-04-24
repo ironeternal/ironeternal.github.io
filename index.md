@@ -4,4 +4,3 @@
 
 - [Character creation](core/pc.md)
 - [Magic](core/spells.md)
-- [World tennets](lore/tennets.md)
