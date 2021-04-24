@@ -120,7 +120,7 @@ quick maff
 |Panoply|6|4|1600||
 |Shield|2|1|50||
 
-> *Maile of all kinds is considered a status symbol. Jewellery is often constructed with it. Wearing only large-linked chainmail and neglecting actual defence is a symbol of confidence and skill. Soldiers, civillians, and monsters all recognise it as a profound statment.
+> \*Maile of all kinds is considered a status symbol. Jewellery is often constructed with it. Wearing only large-linked chainmail and neglecting actual defence is a symbol of confidence and skill. Soldiers, civillians, and monsters all recognise it as a profound statment.
 
 
 ### Subsystem:
