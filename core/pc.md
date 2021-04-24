@@ -4,13 +4,16 @@
 
 Quick gen:
 
+> All characters start at level 3
+
 1. 4 x [d6-d6] in order
 2. 3d6 for character advancements (1-2 prowess, 3-4 skills, 5-6 arcane)
+3. Record your health
+3. Record your combat prowess (if you have any) 
 3. 3d10 Roll for skills (if you have any)
 4. 3d30 for traditions and spells (1-10 drakon, 11-20 orlok, 21-30 moloch) (if you have any)
 4. Select kit
  
-> All characters start at level 3
 
 ## Level up
 
