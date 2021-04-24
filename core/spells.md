@@ -47,19 +47,6 @@
 1. **Nakash**: Entice and deceive a victim into a single action
 1. **Moltano**: Reduce an object to a pile of molten slag
 
-## **Archon**: The darkest light 
-
-- To do
-
-## **Leviathan**: Maw of the deep 
-
-- To do
-
-## **Wendigo**: Skinwalker
-
-- To do
-
-
 
 ![orlock](https://pbs.twimg.com/media/ExppGqQWEAIVY1H?format=jpg&name=900x900)
 
