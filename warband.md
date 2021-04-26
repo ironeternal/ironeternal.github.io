@@ -4,6 +4,14 @@ You control 4 heroic adveturers delving into dungeons in hope of finding the dra
 
 ## Core
 
+### Exploration
+
+Each room in the dungeon is represented by a playing card, each turn the party as a whole may interact with something in the room, move to another room, do combat, or open a door revealing a new room. Every turn there is a 1 in 6 chance that a wandering monster will stumble into a room that the party has revealed. New rooms have a 1 in 3 chance to contain a monster. The monster is only revealed when the door is opened. Once the party has explored 20 rooms the dragons lair will be revealed. Killing the dragon wins the game. If you fail to kill the dragon in 50 turns the princess is eaten and you lose the game.
+
+There is a 1 in 6 chance that a room contains a trap. There is a 1 in 12 chance that a room contains a magical item, the dragons lair always contains a magical item.
+
+## Combat
+
 The avaliable actions to each hero are:
 
 - Move: move from the current room to an adjacent room
@@ -11,11 +19,11 @@ The avaliable actions to each hero are:
 - Use an object
 - Use a skill: You may only attempt an action if your character has the kind of class or skill that would allow them to do so. Standard DC for checks is 5 (on a d20 roll), hard checks are DC 10, and impossible checks are DC 15
 
-### To Kill
+#### To Kill
 
 To try and kill a creature roll 1d6 and add your HIT to the result. If the value is greater than 7 you have wounded the creature. Almost all creatures have 1 wound. If a creature is reduced to 0 wounds then it dies. You may do this a number of times equal to you ATK score as part of a single attack.
 
-### To Defend
+#### To Defend
 
 If a creature you then roll 1d6, if the value is greater than or equal to your DEF you successfully defend yourself. If you fail then you reduce your wounds by 1. All heroes have 1 wound (except fighters which have 2 wounds). If you have zero wounds then you are out-of-action. If the entire party is out-of-action then you lose the game.
 
@@ -47,8 +55,8 @@ The avaliable heros for any adventure are:
 
 |Class|DEF|ATK|HIT|Special|Name|Skills|
 |:-|-:|-:|-:|:-|:-|:-|
-|Ardent|4+|2|3|Scry, Ranged|Nyx the Obsessed Human (Female)|Ethereal plane, astrology, omens|
-|Artificer|3+|1|3|Barricade, Ranged|Hera the Cheery Human (Female)|Fortifications, sapping, masonry|
+|Psychic|4+|2|3|Scry, Ranged|Nyx the Obsessed Human (Female)|Ethereal plane, astrology, omens|
+|Engineer|3+|1|3|Barricade, Ranged|Hera the Cheery Human (Female)|Fortifications, sapping, masonry|
 |Bard|4+|3|2|Song, Ranged|Athena the Affectionate Human (Female)|Music, history, romance|
 |Cleric|3+|3|1|Heal|Othos the Cunning Dwarf (Male)|Undead, gods, medicine|
 |Warlord|3+|2|2|Command|Kira the Reclusive Elf (Female)|Tactics, games, heraldry|
@@ -58,7 +66,7 @@ The avaliable heros for any adventure are:
 |Class|DEF|ATK|HIT|Special|Name||
 |:-|-:|-:|-:|:-|:-|:-|
 |Assassin|5+|1|5|Slippery|Helios the Religious Human (Male)|Poisons, contracts, disguise|
-|Avenger|4+|1|4|Holy|Snuffle the Cooperative Halfling (Female)|Lies, forgery, fire|
+|Crusader|4+|1|4|Holy|Snuffle the Cooperative Halfling (Female)|Lies, forgery, fire|
 |Barbarian|4+|2|3|Charge|Ruptron the Clever Elf (Male)|Ritual, weather, superstition|
 |Rogue|5+|1|5|Lucky, Ranged|Marta the Insensitive Dwarf (Female)|Larceny, traps, gambling|
 |Sorcerer|5+|3|3|Snapcaster, Ranged|Kiki the Cowardly Dwarf (Female)|Dragons, Dancing, Art|
@@ -69,7 +77,7 @@ The avaliable heros for any adventure are:
 |:-|-:|-:|-:|:-|:-|:-|
 |Druid|5+|5|1|Heal, Ranged|Vata the Remorseful Elf (Female)|Animals, herbs, geology|
 |Ranger|5+|4|2|Slippery, Ranged|Razon the Passive Elf (Male)|Tracking, stalking, snaring|
-|Channeler|6+|4|3|Holy, Ranged|Sola the Anxious Halfling (Male)|Spirits, curses, cults|
+|Shaman|6+|4|3|Holy, Ranged|Sola the Anxious Halfling (Male)|Spirits, curses, cults|
 |Psion|6+|6|1|Scry, Ranged|Azra the Wise Elf (Male)|Riddles, divination, illusions|
 |Wizard|6+|5|2|Teleport, Ranged|Mia the Deceitful Halfling (Female)|Study, magic, constructs|
 
