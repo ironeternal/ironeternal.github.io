@@ -13,11 +13,11 @@ The avaliable actions to each hero are:
 
 ### To Kill
 
-To try and kill a creature roll 1d6 and add your accuracy to the result. If the value is greater than 7 you have wounded the creature. Almost all creatures have 1 wound. If a creature is reduced to 0 wounds then it dies.
+To try and kill a creature roll 1d6 and add your HIT to the result. If the value is greater than 7 you have wounded the creature. Almost all creatures have 1 wound. If a creature is reduced to 0 wounds then it dies. You may do this a number of times equal to you ATK score as part of a single attack.
 
 ### To Defend
 
-If a creature you then roll 1d6, if the value is greater than or equal to your defence you successfully defend yourself. If you fail then you reduce your wounds by 1. All heroes have 1 wound (except fighters which have 2 wounds). If you have zero wounds then you are out-of-action. If the entire party is out-of-action then you lose the game.
+If a creature you then roll 1d6, if the value is greater than or equal to your DEF you successfully defend yourself. If you fail then you reduce your wounds by 1. All heroes have 1 wound (except fighters which have 2 wounds). If you have zero wounds then you are out-of-action. If the entire party is out-of-action then you lose the game.
 
 # Heroes
 
@@ -35,7 +35,7 @@ The avaliable heros for any adventure are:
 
 ### Defenders
 
-|Class|Defence|Attacks|Accuracy|Special|Name|Skills|
+|Class|DEF|ATK|HIT|Special|Name|Skills|
 |:-|-:|-:|-:|:-|:-|:-|
 |Battlemind|2+|2|1|Command|Banda the Violent Dwarf (Female)|Psychics, fear, logistics|
 |Berserker|3+|2|2|Charge|Ajax the Aggressive Human (Male)|Mushrooms, construction, sailing|
@@ -45,7 +45,7 @@ The avaliable heros for any adventure are:
 
 ### Leaders
 
-|Class|Defence|Attacks|Accuracy|Special|Name|Skills|
+|Class|DEF|ATK|HIT|Special|Name|Skills|
 |:-|-:|-:|-:|:-|:-|:-|
 |Ardent|4+|2|3|Scry, Ranged|Nyx the Obsessed Human (Female)|Ethereal plane, astrology, omens|
 |Artificer|3+|1|3|Barricade, Ranged|Hera the Cheery Human (Female)|Fortifications, sapping, masonry|
@@ -55,7 +55,7 @@ The avaliable heros for any adventure are:
 
 ### Strikers
 
-|Class|Defence|Attacks|Accuracy|Special|Name||
+|Class|DEF|ATK|HIT|Special|Name||
 |:-|-:|-:|-:|:-|:-|:-|
 |Assassin|5+|1|5|Slippery|Helios the Religious Human (Male)|Poisons, contracts, disguise|
 |Avenger|4+|1|4|Holy|Snuffle the Cooperative Halfling (Female)|Lies, forgery, fire|
@@ -65,7 +65,7 @@ The avaliable heros for any adventure are:
 
 ### Controllers
 
-|Class|Defence|Attacks|Accuracy|Special|Name|Skills|
+|Class|DEF|ATK|HIT|Special|Name|Skills|
 |:-|-:|-:|-:|:-|:-|:-|
 |Druid|5+|5|1|Heal, Ranged|Vata the Remorseful Elf (Female)|Animals, herbs, geology|
 |Ranger|5+|4|2|Slippery, Ranged|Razon the Passive Elf (Male)|Tracking, stalking, snaring|
@@ -82,7 +82,7 @@ The avaliable heros for any adventure are:
 - **Hardy**: You have 4 wounds instead of 2.
 - **Heal**: As an action you may heal them of 1 wound
 - **Holy**: You deal two wounds to any unholy creature instead of one on a successful hit. Unholy creatures include: demons, undead, dragons
-- **Lucky**: You may reroll defence rolls of 1
+- **Lucky**: You may reroll DEF rolls of 1
 - **Ranged**: You may attack a creature in your current room or an adjacent room
 - **Scry**: You may see threats in a room before opening the door
 - **Slippery**: You may move to another room after making an attack action
