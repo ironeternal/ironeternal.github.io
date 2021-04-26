@@ -4,9 +4,22 @@ You control 4 heroic adveturers delving into dungeons in hope of finding the dra
 
 ## Core
 
+The avaliable actions to each hero are:
 
+- Move: move from the current room to an adjacent room
+- Attack: roll to kill an enemy in the current room (or an adjacent room if a hero is ranged)
+- Use an object
+- Use a skill: You may only attempt an action if your character has the kind of class or skill that would allow them to do so. Standard DC for checks is 5 (on a d20 roll), hard checks are DC 10, and impossible checks are DC 15
 
-## Heroes
+### To Kill
+
+To try and kill a creature roll 1d6 and add your accuracy to the result. If the value is greater than 7 you have wounded the creature. Almost all creatures have 1 wound. If a creature is reduced to 0 wounds then it dies.
+
+### To Defend
+
+If a creature you then roll 1d6, if the value is greater than or equal to your defence you successfully defend yourself. If you fail then you reduce your wounds by 1. All heroes have 1 wound (except fighters which have 2 wounds). If you have zero wounds then you are out-of-action. If the entire party is out-of-action then you lose the game.
+
+# Heroes
 
 The types of heros are:
 
@@ -19,13 +32,8 @@ Each party has one of each. On the game board your defenders are represented by 
 
 The avaliable heros for any adventure are:
 
-|Class|Defence|Attacks|Accuracy|Special|Name|Skills|
-|:-|-:|-:|-:|:-|:-|:-|
-|Druid|5+|5|1|Heal, Ranged|Vata the Remorseful Elf (Female)|Animals, herbs, geology|
-|Ranger|5+|4|2|Slippery, Ranged|Razon the Passive Elf (Male)|Tracking, stalking, snaring|
-|Channeler|6+|4|3|Holy, Ranged|Sola the Anxious Halfling (Male)|Spirits, curses, cults|
-|Psion|6+|6|1|Scry, Ranged|Azra the Wise Elf (Male)|Riddles, divination, illusions|
-|Wizard|6+|5|2|Teleport, Ranged|Mia the Deceitful Halfling (Female)|Study, magic, constructs|
+
+### Defenders
 
 |Class|Defence|Attacks|Accuracy|Special|Name|Skills|
 |:-|-:|-:|-:|:-|:-|:-|
@@ -35,6 +43,8 @@ The avaliable heros for any adventure are:
 |Paladin|2+|1|2|Holy|Ares the Weary Human (Male)|Heresy, Demons, Witchcraft|
 |Swordmage|3+|1|3|Teleport|Atan the Wild Dwarf (Male)|Weapons, runes, ruins|
 
+### Leaders
+
 |Class|Defence|Attacks|Accuracy|Special|Name|Skills|
 |:-|-:|-:|-:|:-|:-|:-|
 |Ardent|4+|2|3|Scry, Ranged|Nyx the Obsessed Human (Female)|Ethereal plane, astrology, omens|
@@ -42,6 +52,8 @@ The avaliable heros for any adventure are:
 |Bard|4+|3|2|Song, Ranged|Athena the Affectionate Human (Female)|Music, history, romance|
 |Cleric|3+|3|1|Heal|Othos the Cunning Dwarf (Male)|Undead, gods, medicine|
 |Warlord|3+|2|2|Command|Kira the Reclusive Elf (Female)|Tactics, games, heraldry|
+
+### Strikers
 
 |Class|Defence|Attacks|Accuracy|Special|Name||
 |:-|-:|-:|-:|:-|:-|:-|
@@ -51,14 +63,24 @@ The avaliable heros for any adventure are:
 |Rogue|5+|1|5|Lucky, Ranged|Marta the Insensitive Dwarf (Female)|Larceny, traps, gambling|
 |Sorcerer|5+|3|3|Snapcaster, Ranged|Kiki the Cowardly Dwarf (Female)|Dragons, Dancing, Art|
 
+### Controllers
+
+|Class|Defence|Attacks|Accuracy|Special|Name|Skills|
+|:-|-:|-:|-:|:-|:-|:-|
+|Druid|5+|5|1|Heal, Ranged|Vata the Remorseful Elf (Female)|Animals, herbs, geology|
+|Ranger|5+|4|2|Slippery, Ranged|Razon the Passive Elf (Male)|Tracking, stalking, snaring|
+|Channeler|6+|4|3|Holy, Ranged|Sola the Anxious Halfling (Male)|Spirits, curses, cults|
+|Psion|6+|6|1|Scry, Ranged|Azra the Wise Elf (Male)|Riddles, divination, illusions|
+|Wizard|6+|5|2|Teleport, Ranged|Mia the Deceitful Halfling (Female)|Study, magic, constructs|
+
 
 ### Special
 
 - **Barricade**: As an action you may prevent any new creatures from moving between the room you are in a one adjacent room
 - **Charge**: As an action you may move into another room and make an attack
 - **Command**: As an action you may trigger an ally to act instead of you
-- **Hardy**: Ignore the first failed defence saving throw each fight
-- **Heal**: As an action you may revive an ally (taking them from out-of-action to fighting-fit)
+- **Hardy**: You have 4 wounds instead of 2.
+- **Heal**: As an action you may heal them of 1 wound
 - **Holy**: You deal two wounds to any unholy creature instead of one on a successful hit. Unholy creatures include: demons, undead, dragons
 - **Lucky**: You may reroll defence rolls of 1
 - **Ranged**: You may attack a creature in your current room or an adjacent room
