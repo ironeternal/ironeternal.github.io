@@ -1,6 +1,6 @@
 # Homespun Dungeon Crawl
 
-A wargame/dungeon crawl that can be played with a standard 7 dice set and a deck of playing cards, no tiles, minis, or extras needed. You control 4 heroic adveturers delving into dungeons in hope of finding the dragon, slaying it, taking its treasure, and saving the princess. Each player controls a party of heros.
+> A wargame/dungeon crawl that can be played with a standard 7 dice set and a deck of playing cards; no tiles, minis, or extras needed. You control 4 heroic adveturers delving into dungeons in hope of finding the dragon, slaying it, taking its treasure, and saving the princess. Each player controls a party of heros.
 
 ![dungeon crawl](https://www.gamingscan.com/wp-content/uploads/2020/09/Darkest-Dungeon.jpg)
 
