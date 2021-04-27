@@ -6,9 +6,9 @@ You control 4 heroic adveturers delving into dungeons in hope of finding the dra
 
 ### Exploration
 
-Each room in the dungeon is represented by a playing card, each turn the party as a whole may interact with something in the room, move to another room, do combat, or open a door revealing a new room. Every turn there is a 1 in 6 chance that a wandering monster will stumble into a room that the party has revealed. New rooms have a 1 in 3 chance to contain a monster. The monster is only revealed when the door is opened. Once the party has explored 20 rooms the dragons lair will be revealed. Killing the dragon wins the game. If you fail to kill the dragon in 50 turns the princess is eaten and you lose the game.
+Each room in the dungeon is represented by a playing card, each turn the party as a whole may interact with something in the room, move to another room, do combat, or open a door revealing a new room. Every turn there is a 1 in 6 chance that a wandering monster will stumble into a room that the party has revealed. New rooms have a 1 in 4 chance to contain a monster. The monster is only revealed when the door is opened. Once the party has explored 20 rooms the dragons lair will be revealed. Killing the dragon wins the game. If you fail to kill the dragon in 50 turns the princess is eaten and you lose the game.
 
-There is a 1 in 6 chance that a room contains a trap. There is a 1 in 12 chance that a room contains a magical item, the dragons lair always contains a magical item.
+There is a 1 in 8 chance that a room contains a trap. There is a 1 in 12 chance that a room contains a magical item, the dragons lair always contains a magical item.
 
 ## Combat
 
@@ -97,3 +97,33 @@ The avaliable heros for any adventure are:
 - **Snapcaster**: You may make a single attack action when a room is opened before anyone else acts
 - **Song**: As an action you may give your allies +1 to hit
 - **Teleport**: As an action you may move two rooms
+
+# Generators
+
+On 1 add a:
+
+- 1d4: Monster
+- 1d6: Wandering Monster
+- 1d8: Trap
+- 1d10: Treasure
+- 1d12: Magical Item
+
+## Traps
+## Items
+## Treasure
+## Monsters
+
+1. Goblin
+2. Skeleton
+4. Gelatinous Cube
+3. Mimic
+11. Wraith
+10. Rust monster
+12. Displacer beast
+5. Owl Bear
+8. Beholder
+7. Mind Flayer
+6. Lich
+9. Dragon
+
+## The Dragon
