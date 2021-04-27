@@ -2,6 +2,8 @@
 
 A wargame/dungeon crawl that can be played with a standard 7 dice set and a deck of playing cards, no tiles, minis, or extras needed. You control 4 heroic adveturers delving into dungeons in hope of finding the dragon, slaying it, taking its treasure, and saving the princess. Each player controls a party of heros.
 
+![dungeon crawl](https://www.gamingscan.com/wp-content/uploads/2020/09/Darkest-Dungeon.jpg)
+
 ## Core
 
 ### Exploration
@@ -35,6 +37,8 @@ To try and kill a creature roll 1d6 and add your HIT to the result. If the value
 #### To Defend
 
 If a creature attacks you then roll 1d6 and add you DEF, if the value is greater than or equal to the creature's level you successfully defend yourself. If you fail then you reduce your wounds by 1. All heroes have 1 wound (except fighters which have 2 wounds). If you have zero wounds then you are out-of-action. While out-of-action you are bleeding to death. You can bleed to death for a number of turns equal to your level. Is no one stablises you before a number of turns equal to your level then you die. If the entire party dies then you lose the game.
+
+[!dragon](https://sm.ign.com/ign_in/feature/h/how-to-sta/how-to-start-playing-dungeons-dragons_t3ms.jpg)
 
 # Heroes
 
@@ -148,6 +152,8 @@ Hero's who survive an adventure level up! When a hero levels up:
 	4. Sir NAME, Protectior of Maidens
 	2. Sir NAME, Lord of War
 	3. Sir NAME, Dragonbane
+
+![Dragon](https://media.dnd.wizards.com/styles/second_hubpage_banner/public/images/head-banner/NEW-TO-DnD_What-is-DnD_Subsection_Hero_140718.jpg)
 
 # Generators
 
