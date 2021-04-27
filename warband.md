@@ -38,7 +38,7 @@ To try and kill a creature roll 1d6 and add your HIT to the result. If the value
 
 If a creature attacks you then roll 1d6 and add you DEF, if the value is greater than or equal to the creature's level you successfully defend yourself. If you fail then you reduce your wounds by 1. All heroes have 1 wound (except fighters which have 2 wounds). If you have zero wounds then you are out-of-action. While out-of-action you are bleeding to death. You can bleed to death for a number of turns equal to your level. Is no one stablises you before a number of turns equal to your level then you die. If the entire party dies then you lose the game.
 
-[!dragon](https://sm.ign.com/ign_in/feature/h/how-to-sta/how-to-start-playing-dungeons-dragons_t3ms.jpg)
+![dragon](https://sm.ign.com/ign_in/feature/h/how-to-sta/how-to-start-playing-dungeons-dragons_t3ms.jpg)
 
 # Heroes
 
