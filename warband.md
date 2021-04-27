@@ -92,7 +92,7 @@ The avaliable heros for any adventure are:
 
 ### Special
 
-- **Ambush**: You may make a single attack action when a room is opened before anyone else acts, unless the party passes a hard (DC10) check
+- **Ambush**: You may make a single attack action when a room is opened before anyone else acts
 - **Barricade**: As an action you may prevent any new creatures from moving between the room you are in a one adjacent room
 - **Breathweapon**: When this creature attacks everyone in the room is hit.
 - **Charge**: As an action you may move into another room and make an attack
@@ -107,11 +107,46 @@ The avaliable heros for any adventure are:
 - **Ranged**: You may attack a creature in your current room or an adjacent room
 - **Scry**: You may see threats in a room before opening the door
 - **Slippery**: You may move to another room after making an attack action
-- **Snapcaster**: You may make a single attack action when a room is opened before anyone else acts (excluding ambush creatures)
+- **Snapcaster**: You may make a single attack action when a room is opened before anyone else acts but after ambush creatures
 - **Song**: As an action you may give your allies +1 to hit
 - **Sticky**: No one may leave a room in which a sticky creature is present.
 - **Teleport**: As an action you may move two rooms. This overrides sticky.
 - **Unkillable**: When this creature dies it respawns instantly at the start of the dungeon
+
+## Creating a hero
+
+To create a hero do the following:
+
+1. Decide on a core concept, name, gender, personality, and race
+1. Decide on their role:
+	- A defender must have a DEF of 4 or 5
+	- A leader must have a DEF of 4 or 3
+	- A striker must have a DEF of 2 or 3
+	- A controller must have an ATK of 4 or 5
+4. Allocate their attributes. The sum total of their DEF, ATK, and HIT must equal 8
+2. Pick 3 areas of expertise for their skills
+2. Pick a single tag to give your hero:
+	- Do not give them: unkillable, powerful attacks, breathweapon, or long ranged
+	- If you give them hardy(X) it must be hardy(1)
+3. Decide if they are ranged. 
+	- Defenders are never ranged
+	- Leaders have a 4 in 6 chance of being ranged
+	- Strikers have a 2 in 6 chance of being ranged
+	- Controllers are ranged
+
+## Long Lived Heros
+
+Hero's who survive an adventure level up! When a hero levels up:
+
+- Increases their ATK, DEF, or HIT by 1
+- Increases the rounds until they die from bleeding out by 1
+- Keeps a single item from the adventure
+- Gains a title based on their level
+	1. Sir NAME
+	2. Sir NAME, the Brave
+	4. Sir NAME, Protectior of Maidens
+	2. Sir NAME, Lord of War
+	3. Sir NAME, Dragonbane
 
 # Generators
 
@@ -152,7 +187,7 @@ On 1 add a:
 8. Beholder (8, snake decapitator): long ranged
 7. Mind Flayer (8, commander): command, unholy
 6. Lich (8): unkillable, teleport, unholy
-9. Dragon (9): Breathweapon, Charge, hardy(2), Lucky
+9. Dragon (9): Breathweapon, Charge, hardy(2), Lucky, unholy
 
 
 
