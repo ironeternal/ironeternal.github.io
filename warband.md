@@ -55,7 +55,7 @@ The avaliable heros for any adventure are:
 |:-|-:|-:|-:|:-|:-|:-|
 |Battlemind|5|2|1|Command|Banda the Violent Dwarf (Female)|Psychics, fear, logistics|
 |Berserker|4|2|2|Charge|Ajax the Aggressive Human (Male)|Mushrooms, construction, sailing|
-|Fighter|5|2|1|Hardy|Pebble the Doomed Halfling (Male)|Baking, siegecraft, sperlunking|
+|Fighter|5|2|1|Hardy(1)|Pebble the Doomed Halfling (Male)|Baking, siegecraft, sperlunking|
 |Paladin|5|1|2|Holy|Ares the Weary Human (Male)|Heresy, Demons, Witchcraft|
 |Swordmage|4|1|3|Teleport|Atan the Wild Dwarf (Male)|Weapons, runes, ruins|
 
@@ -94,12 +94,16 @@ The avaliable heros for any adventure are:
 
 - **Ambush**: You may make a single attack action when a room is opened before anyone else acts, unless the party passes a hard (DC10) check
 - **Barricade**: As an action you may prevent any new creatures from moving between the room you are in a one adjacent room
+- **Breathweapon**: When this creature attacks everyone in the room is hit.
 - **Charge**: As an action you may move into another room and make an attack
 - **Command**: As an action you may trigger an ally to act instead of you
-- **Hardy**: You have 1 extra wound
+- **Fast**: When this creature takes a move action it may move an extra room.
+- **Hardy(X)**: You have X extra wounds
 - **Heal**: As an action you may heal an ally of 1 wound
 - **Holy**: You deal two wounds to any unholy creature instead of one on a successful hit. Unholy creatures include: demons, undead, dragons
+- **Long Ranged**: You may attack any creature regardless of what room it is in
 - **Lucky**: You may reroll DEF rolls of 1
+- **Powerful attacks**: When this creature wounds an enemy it deals 2 wounds instead of 1
 - **Ranged**: You may attack a creature in your current room or an adjacent room
 - **Scry**: You may see threats in a room before opening the door
 - **Slippery**: You may move to another room after making an attack action
@@ -120,6 +124,18 @@ On 1 add a:
 
 ## Items
 
+2. Health potion: When an ally is reduced to 0 wounds, return them to 1 wound. Destroyed on use.
+4. Scroll of Magic Missle: 4 times attack (HIT:1) against any enemy in any room. Destroyed on use.
+5. Scroll of Mass Teleport: move all heros to a single room. Destroyed on use.
+1. +1 Magic Sword: Grant one hero +1 to their HIT
+3. Scroll of Fireball: Attack (HIT:6) all creatures in a room adjacent to a hero. Destroyed on use.
+9. Lucky Halfling Stone: Grant one hero 1 extra wound
+6. Bracers of Protection: Grant one hero +1 to their DEF (max DEF = 6)
+7. Scroll of Finger of Death: Kill a creature in the same room as a hero. Destroyed on use.
+12. Speeding Scimitar: Grant one hero +1 to their ATK
+8. Scroll of Resurrection: Return a dead hero to 1 wound. Destroyed on use.
+10. Bow of elven kind: Grant one hero who is ranged **long ranged**
+11. Belt of Dwarven Strength: Grant on hero **powerful attacks**
 
 ## Monsters
 
@@ -129,14 +145,14 @@ On 1 add a:
 2. Skeleton Spearman (7, coward): unholy, slippery
 4. Gelatinous Cube (7): sticky, lucky
 3. Mimic (7): ambush, sticky, unholy
-11. 2 Wraiths (7): teleport, unholy
-10. 4 Goblin Troop (hunter killer): 4 goblins
+10. 4 Goblin Troop (7): 4 goblins
+11. 2 Wraiths (7, hunter killer): fast, charge, unholy
 12. 2 Displacer beasts (7, mage slayer): teleport
-5. Owl Bear (8, frontal assault): sticky, hardy
-8. Beholder (8, snake decapitator): ranged, hardy
+5. Owl Bear (8, frontal assault): Powerful attacks, Hardy(2)
+8. Beholder (8, snake decapitator): long ranged, Hardy(1)
 7. Mind Flayer (8, commander): command, unholy
 6. Lich (8): unkillable, teleport, unholy
-9. Dragon (9): Charge, hardy Lucky, Sticky
+9. Dragon (9): Breathweapon, Charge, hardy(2), Lucky
 
 
 
