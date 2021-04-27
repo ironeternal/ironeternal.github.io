@@ -1,6 +1,6 @@
 # Homespun Dungeon Crawl
 
-> A wargame/dungeon crawl that can be played with a standard 7 dice set and a deck of playing cards; no tiles, minis, or extras needed. You control 4 heroic adveturers delving into dungeons in hope of finding the dragon, slaying it, taking its treasure, and saving the princess. Each player controls a party of heros.
+> A wargame/dungeon crawl that can be played with a standard 7 dice set, pen, and paper; no tiles, minis, or extras needed. You control 4 heroic adveturers delving into dungeons in hope of finding the dragon, slaying it, taking its treasure, and saving the princess. Each player controls a party of heros.
 
 ![dungeon crawl](https://www.gamingscan.com/wp-content/uploads/2020/09/Darkest-Dungeon.jpg)
 
@@ -8,7 +8,7 @@
 
 ### Exploration
 
-Each room in the dungeon is represented by a playing card, each turn the party as a whole may interact with something in the room, move to another room, do combat, or open a door revealing a new room. Every turn there is a 1 in 6 chance that a wandering monster will stumble into a room that the party has revealed. 
+Each room in the dungeon is represented by a playing card, each turn the party as a whole may interact with something in the room, move to another room, do combat, or open a door revealing a new room. If you don't have playing cards you can just draw the dungeoon as a series of boxes connected by lines on a piece of paper. Every turn there is a 1 in 6 chance that a wandering monster will stumble into a room that the party has revealed. 
 
 New rooms have:
 - 1 in 4 chance of having a monster inside them
