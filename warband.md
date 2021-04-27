@@ -29,11 +29,11 @@ The avaliable actions to each hero are:
 
 #### To Kill
 
-To try and kill a creature roll 1d6 and add your HIT to the result. If the value is greater than 7 you have wounded the creature. Almost all creatures have 1 wound. If a creature is reduced to 0 wounds then it dies. You may do this a number of times equal to you ATK score as part of a single attack.
+To try and kill a creature roll 1d6 and add your HIT to the result. If the value is greater than or equal to the creature's level you have wounded the creature. Almost all creatures have 1 wound. If a creature is reduced to 0 wounds then it dies. You may do this a number of times equal to you ATK score as part of a single attack.
 
 #### To Defend
 
-If a creature you then roll 1d6, if the value is greater than or equal to your DEF you successfully defend yourself. If you fail then you reduce your wounds by 1. All heroes have 1 wound (except fighters which have 2 wounds). If you have zero wounds then you are out-of-action. While out-of-action you are bleeding to death. You can bleed to death for a number of turns equal to your level. Is no one stablises you before a number of turns equal to your level then you die. If the entire party dies then you lose the game.
+If a creature attacks you then roll 1d6 and add you DEF, if the value is greater than or equal to the creature's level you successfully defend yourself. If you fail then you reduce your wounds by 1. All heroes have 1 wound (except fighters which have 2 wounds). If you have zero wounds then you are out-of-action. While out-of-action you are bleeding to death. You can bleed to death for a number of turns equal to your level. Is no one stablises you before a number of turns equal to your level then you die. If the entire party dies then you lose the game.
 
 # Heroes
 
@@ -148,8 +148,8 @@ On 1 add a:
 10. 4 Goblin Troop (7): 4 goblins
 11. 2 Wraiths (7, hunter killer): fast, charge, unholy
 12. 2 Displacer beasts (7, mage slayer): teleport
-5. Owl Bear (8, frontal assault): Powerful attacks, Hardy(2)
-8. Beholder (8, snake decapitator): long ranged, Hardy(1)
+5. Owl Bear (8, frontal assault): Powerful attacks, Hardy(1)
+8. Beholder (8, snake decapitator): long ranged
 7. Mind Flayer (8, commander): command, unholy
 6. Lich (8): unkillable, teleport, unholy
 9. Dragon (9): Breathweapon, Charge, hardy(2), Lucky
