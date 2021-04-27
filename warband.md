@@ -6,9 +6,16 @@ You control 4 heroic adveturers delving into dungeons in hope of finding the dra
 
 ### Exploration
 
-Each room in the dungeon is represented by a playing card, each turn the party as a whole may interact with something in the room, move to another room, do combat, or open a door revealing a new room. Every turn there is a 1 in 6 chance that a wandering monster will stumble into a room that the party has revealed. New rooms have a 1 in 4 chance to contain a monster. The monster is only revealed when the door is opened. Once the party has explored 20 rooms the dragons lair will be revealed. Killing the dragon wins the game. If you fail to kill the dragon in 50 turns the princess is eaten and you lose the game.
+Each room in the dungeon is represented by a playing card, each turn the party as a whole may interact with something in the room, move to another room, do combat, or open a door revealing a new room. Every turn there is a 1 in 6 chance that a wandering monster will stumble into a room that the party has revealed. 
 
-There is a 1 in 8 chance that a room contains a trap. There is a 1 in 12 chance that a room contains a magical item, the dragons lair always contains a magical item.
+New rooms have:
+- 1 in 4 chance of having a monster inside them
+- 1 in 6 chance of having treasure inside of them
+- 1 in 8 chance of having a magical item inside of them
+
+The contents of a room are not revealed until the room is entered or the room is scryed. At the beginning of the adventure you have 0 treasure. New treasure is aquired by by clearing the room of all monsters. There is only ever 1 dragon. Killing the dragon wins the game.
+
+When rolling on the monster and magical item table, roll 1d6 and add your total treasure to determine the result.
 
 ## Combat
 
@@ -46,41 +53,41 @@ The avaliable heros for any adventure are:
 
 |Class|DEF|ATK|HIT|Special|Name|Skills|
 |:-|-:|-:|-:|:-|:-|:-|
-|Battlemind|2+|2|1|Command|Banda the Violent Dwarf (Female)|Psychics, fear, logistics|
-|Berserker|3+|2|2|Charge|Ajax the Aggressive Human (Male)|Mushrooms, construction, sailing|
-|Fighter|2+|2|1|Hardy|Pebble the Doomed Halfling (Male)|Baking, siegecraft, sperlunking|
-|Paladin|2+|1|2|Holy|Ares the Weary Human (Male)|Heresy, Demons, Witchcraft|
-|Swordmage|3+|1|3|Teleport|Atan the Wild Dwarf (Male)|Weapons, runes, ruins|
+|Battlemind|5|2|1|Command|Banda the Violent Dwarf (Female)|Psychics, fear, logistics|
+|Berserker|4|2|2|Charge|Ajax the Aggressive Human (Male)|Mushrooms, construction, sailing|
+|Fighter|5|2|1|Hardy|Pebble the Doomed Halfling (Male)|Baking, siegecraft, sperlunking|
+|Paladin|5|1|2|Holy|Ares the Weary Human (Male)|Heresy, Demons, Witchcraft|
+|Swordmage|4|1|3|Teleport|Atan the Wild Dwarf (Male)|Weapons, runes, ruins|
 
 ### Leaders
 
 |Class|DEF|ATK|HIT|Special|Name|Skills|
 |:-|-:|-:|-:|:-|:-|:-|
-|Psychic|4+|2|3|Scry, Ranged|Nyx the Obsessed Human (Female)|Ethereal plane, astrology, omens|
-|Engineer|3+|1|3|Barricade, Ranged|Hera the Cheery Human (Female)|Fortifications, sapping, masonry|
-|Bard|4+|3|2|Song, Ranged|Athena the Affectionate Human (Female)|Music, history, romance|
-|Cleric|3+|3|1|Heal|Othos the Cunning Dwarf (Male)|Undead, gods, medicine|
-|Warlord|3+|2|2|Command|Kira the Reclusive Elf (Female)|Tactics, games, heraldry|
+|Psychic|3|2|3|Scry, Ranged|Nyx the Obsessed Human (Female)|Ethereal plane, astrology, omens|
+|Engineer|4|1|3|Barricade, Ranged|Hera the Cheery Human (Female)|Fortifications, sapping, masonry|
+|Bard|3|3|2|Song, Ranged|Athena the Affectionate Human (Female)|Music, history, romance|
+|Cleric|4|3|1|Heal|Othos the Cunning Dwarf (Male)|Undead, gods, medicine|
+|Warlord|4|2|2|Command|Kira the Reclusive Elf (Female)|Tactics, games, heraldry|
 
 ### Strikers
 
 |Class|DEF|ATK|HIT|Special|Name||
 |:-|-:|-:|-:|:-|:-|:-|
-|Assassin|5+|1|5|Slippery|Helios the Religious Human (Male)|Poisons, contracts, disguise|
-|Crusader|4+|1|4|Holy|Snuffle the Cooperative Halfling (Female)|Lies, forgery, fire|
-|Barbarian|4+|2|3|Charge|Ruptron the Clever Elf (Male)|Ritual, weather, superstition|
-|Rogue|5+|1|5|Lucky, Ranged|Marta the Insensitive Dwarf (Female)|Larceny, traps, gambling|
-|Sorcerer|5+|3|3|Snapcaster, Ranged|Kiki the Cowardly Dwarf (Female)|Dragons, Dancing, Art|
+|Assassin|2|1|5|Slippery|Helios the Religious Human (Male)|Poisons, contracts, disguise|
+|Crusader|3|1|4|Holy|Snuffle the Cooperative Halfling (Female)|Lies, forgery, fire|
+|Barbarian|3|2|3|Charge|Ruptron the Clever Elf (Male)|Ritual, weather, superstition|
+|Rogue|2|1|5|Lucky, Ranged|Marta the Insensitive Dwarf (Female)|Larceny, traps, gambling|
+|Sorcerer|2|3|3|Snapcaster, Ranged|Kiki the Cowardly Dwarf (Female)|Dragons, Dancing, Art|
 
 ### Controllers
 
 |Class|DEF|ATK|HIT|Special|Name|Skills|
 |:-|-:|-:|-:|:-|:-|:-|
-|Druid|5+|5|1|Heal, Ranged|Vata the Remorseful Elf (Female)|Animals, herbs, geology|
-|Ranger|5+|4|2|Slippery, Ranged|Razon the Passive Elf (Male)|Tracking, stalking, snaring|
-|Shaman|6+|4|3|Holy, Ranged|Sola the Anxious Halfling (Male)|Spirits, curses, cults|
-|Psion|6+|6|1|Scry, Ranged|Azra the Wise Elf (Male)|Riddles, divination, illusions|
-|Wizard|6+|5|2|Teleport, Ranged|Mia the Deceitful Halfling (Female)|Study, magic, constructs|
+|Druid|2|5|1|Heal, Ranged|Vata the Remorseful Elf (Female)|Animals, herbs, geology|
+|Ranger|3|4|1|Slippery, Ranged|Razon the Passive Elf (Male)|Tracking, stalking, snaring|
+|Shaman|1|4|3|Holy, Ranged|Sola the Anxious Halfling (Male)|Spirits, curses, cults|
+|Psion|2|4|2|Scry, Ranged|Azra the Wise Elf (Male)|Riddles, divination, illusions|
+|Wizard|1|5|2|Teleport, Ranged|Mia the Deceitful Halfling (Female)|Study, magic, constructs|
 
 
 ### Special
@@ -108,29 +115,28 @@ On 1 add a:
 
 - 1d4: Monster
 - 1d6: Wandering Monster
-- 1d8: Trap
 - 1d10: Treasure
 - 1d12: Magical Item
 
-## Traps
 ## Items
-## Treasure
+
+
 ## Monsters
 
 \<creature\> (\<level\>): \<tags\>
 
-1. Goblin (1): charge
-2. Skeleton Spearman (1): unholy, slippery, coward
-4. Gelatinous Cube (1): sticky, lucky
-3. Mimic (1): ambush, sticky, unholy
-11. Wraith (1): teleport, unholy
-10. Goblin Troop: 4 goblins, hunter killer
-12. Displacer beast (2): teleport, mage slayer, unholy
-5. Owl Bear (2): sticky, hardy, frontal assault
-8. Beholder (2): ranged, snake decapitator
-7. Mind Flayer (2): command, commander, unholy
-6. Lich (3): unkillable, unholy, teleport, unholy
-9. Dragon (6): Charge, Hardy, Lucky, Sticky
+1. Goblin (7): charge
+2. Skeleton Spearman (7, coward): unholy, slippery
+4. Gelatinous Cube (7): sticky, lucky
+3. Mimic (7): ambush, sticky, unholy
+11. 2 Wraiths (7): teleport, unholy
+10. 4 Goblin Troop (hunter killer): 4 goblins
+12. 2 Displacer beasts (7, mage slayer): teleport
+5. Owl Bear (8, frontal assault): sticky, hardy
+8. Beholder (8, snake decapitator): ranged, hardy
+7. Mind Flayer (8, commander): command, unholy
+6. Lich (8): unkillable, teleport, unholy
+9. Dragon (9): Charge, hardy Lucky, Sticky
 
 
 
@@ -146,5 +152,3 @@ Each monster employs a strategy. Unless stated a creature is assumed to be a min
 	- **Hunter Killer**: PREFERED_FOE is strikers
 - **Commander**: Will use command if possible, before acting as a mindless destroyer
 - **Coward**: Will perform a move action (or a slippery if possible) whenever it shares a room with an enemy.
-
-## The Dragon
