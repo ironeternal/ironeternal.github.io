@@ -1,6 +1,6 @@
-# Warband
+# Homespun Dungeon Crawl
 
-You control 4 heroic adveturers delving into dungeons in hope of finding the dragon, slaying it, taking its treasure, and saving the princess. Each player controls a party of heros.
+A wargame/dungeon crawl that can be played with a standard 7 dice set and a deck of playing cards, no tiles, minis, or extras needed. You control 4 heroic adveturers delving into dungeons in hope of finding the dragon, slaying it, taking its treasure, and saving the princess. Each player controls a party of heros.
 
 ## Core
 
@@ -12,6 +12,7 @@ New rooms have:
 - 1 in 4 chance of having a monster inside them
 - 1 in 6 chance of having treasure inside of them
 - 1 in 8 chance of having a magical item inside of them
+- 1d4 adjacent rooms (if possible). New rooms are added with the long edge perpendicular to the current room. Rooms may not overlap.
 
 The contents of a room are not revealed until the room is entered or the room is scryed. At the beginning of the adventure you have 0 treasure. New treasure is aquired by by clearing the room of all monsters. There is only ever 1 dragon. Killing the dragon wins the game.
 
