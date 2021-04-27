@@ -138,13 +138,13 @@ On 1 add a:
 
 Each monster employs a strategy. Unless stated a creature is assumed to be a mindless destoyer:
 
-- Mindless Destroyer: Attacks closest enemy. If not enemy is in the current room the creature will move action closer to the party.
-- Targeted: Attacks closest enemy. Prioritises attacking PREFERED_FOE. If a PREFERED_FOE is in the current room, creature attacks PREFERED_FOE. If a PREFERED_FOE is one move action away, the creature will move to the PREFERED_FOE's room. If a PREFERED_FOE is not in the current room or one move action away a random enemy in the current room will be attacked. If the current room is has no heroes in it the creature will move towards a PREFERED_FOE if one is fighting-fight, otherwise the creature will move to a random hero.
-	- Snake Decapitator: PREFERED_FOE is leaders
-	- Mage Slayer: PREFERED_FOE is controllers
-	- Frontal Assault: PREFERED_FOE is defenders
-	- Hunter Killer: PREFERED_FOE is strikers
-- Commander: Will use command if possible, before acting as a mindless destroyer
-- Coward: Will perform a move action (or a slippery if possible) whenever it shares a room with an enemy.
+- **Mindless Destroyer**: Attacks closest enemy. If not enemy is in the current room the creature will move action closer to the party.
+- **Targeted**: Attacks closest enemy. Prioritises attacking PREFERED_FOE. If a PREFERED_FOE is in the current room, creature attacks PREFERED_FOE. If a PREFERED_FOE is one move action away, the creature will move to the PREFERED_FOE's room. If a PREFERED_FOE is not in the current room or one move action away a random enemy in the current room will be attacked. If the current room is has no heroes in it the creature will move towards a PREFERED_FOE if one is fighting-fight, otherwise the creature will move to a random hero.
+	- **Snake Decapitator**: PREFERED_FOE is leaders
+	- **Mage Slayer**: PREFERED_FOE is controllers
+	- **Frontal Assault**: PREFERED_FOE is defenders
+	- **Hunter Killer**: PREFERED_FOE is strikers
+- **Commander**: Will use command if possible, before acting as a mindless destroyer
+- **Coward**: Will perform a move action (or a slippery if possible) whenever it shares a room with an enemy.
 
 ## The Dragon
