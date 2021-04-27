@@ -18,6 +18,7 @@ The avaliable actions to each hero are:
 - Attack: roll to kill an enemy in the current room (or an adjacent room if a hero is ranged)
 - Use an object
 - Use a skill: You may only attempt an action if your character has the kind of class or skill that would allow them to do so. Standard DC for checks is 5 (on a d20 roll), hard checks are DC 10, and impossible checks are DC 15
+- Stabilise: Make a DC5 check to stop an out-of-action ally from bleeding to death. When no enemies exist on the game board a stabilised creature returns to 1 wounds.
 
 #### To Kill
 
@@ -25,7 +26,7 @@ To try and kill a creature roll 1d6 and add your HIT to the result. If the value
 
 #### To Defend
 
-If a creature you then roll 1d6, if the value is greater than or equal to your DEF you successfully defend yourself. If you fail then you reduce your wounds by 1. All heroes have 1 wound (except fighters which have 2 wounds). If you have zero wounds then you are out-of-action. If the entire party is out-of-action then you lose the game.
+If a creature you then roll 1d6, if the value is greater than or equal to your DEF you successfully defend yourself. If you fail then you reduce your wounds by 1. All heroes have 1 wound (except fighters which have 2 wounds). If you have zero wounds then you are out-of-action. While out-of-action you are bleeding to death. You can bleed to death for a number of turns equal to your level. Is no one stablises you before a number of turns equal to your level then you die. If the entire party dies then you lose the game.
 
 # Heroes
 
@@ -84,19 +85,22 @@ The avaliable heros for any adventure are:
 
 ### Special
 
+- **Ambush**: You may make a single attack action when a room is opened before anyone else acts, unless the party passes a hard (DC10) check
 - **Barricade**: As an action you may prevent any new creatures from moving between the room you are in a one adjacent room
 - **Charge**: As an action you may move into another room and make an attack
 - **Command**: As an action you may trigger an ally to act instead of you
-- **Hardy**: You have 4 wounds instead of 2.
-- **Heal**: As an action you may heal them of 1 wound
+- **Hardy**: You have 1 extra wound
+- **Heal**: As an action you may heal an ally of 1 wound
 - **Holy**: You deal two wounds to any unholy creature instead of one on a successful hit. Unholy creatures include: demons, undead, dragons
 - **Lucky**: You may reroll DEF rolls of 1
 - **Ranged**: You may attack a creature in your current room or an adjacent room
 - **Scry**: You may see threats in a room before opening the door
 - **Slippery**: You may move to another room after making an attack action
-- **Snapcaster**: You may make a single attack action when a room is opened before anyone else acts
+- **Snapcaster**: You may make a single attack action when a room is opened before anyone else acts (excluding ambush creatures)
 - **Song**: As an action you may give your allies +1 to hit
-- **Teleport**: As an action you may move two rooms
+- **Sticky**: No one may leave a room in which a sticky creature is present.
+- **Teleport**: As an action you may move two rooms. This overrides sticky.
+- **Unkillable**: When this creature dies it respawns instantly at the start of the dungeon
 
 # Generators
 
@@ -113,17 +117,34 @@ On 1 add a:
 ## Treasure
 ## Monsters
 
-1. Goblin
-2. Skeleton
-4. Gelatinous Cube
-3. Mimic
-11. Wraith
-10. Rust monster
-12. Displacer beast
-5. Owl Bear
-8. Beholder
-7. Mind Flayer
-6. Lich
-9. Dragon
+\<creature\> (\<level\>): \<tags\>
+
+1. Goblin (1): charge
+2. Skeleton Spearman (1): unholy, slippery, coward
+4. Gelatinous Cube (1): sticky, lucky
+3. Mimic (1): ambush, sticky, unholy
+11. Wraith (1): teleport, unholy
+10. Goblin Troop: 4 goblins, hunter killer
+12. Displacer beast (2): teleport, mage slayer, unholy
+5. Owl Bear (2): sticky, hardy, frontal assault
+8. Beholder (2): ranged, snake decapitator
+7. Mind Flayer (2): command, commander, unholy
+6. Lich (3): unkillable, unholy, teleport, unholy
+9. Dragon (6): Charge, Hardy, Lucky, Sticky
+
+
+
+### Strategies:
+
+Each monster employs a strategy. Unless stated a creature is assumed to be a mindless destoyer:
+
+- Mindless Destroyer: Attacks closest enemy. If not enemy is in the current room the creature will move action closer to the party.
+- Targeted: Attacks closest enemy. Prioritises attacking PREFERED_FOE. If a PREFERED_FOE is in the current room, creature attacks PREFERED_FOE. If a PREFERED_FOE is one move action away, the creature will move to the PREFERED_FOE's room. If a PREFERED_FOE is not in the current room or one move action away a random enemy in the current room will be attacked. If the current room is has no heroes in it the creature will move towards a PREFERED_FOE if one is fighting-fight, otherwise the creature will move to a random hero.
+	- Snake Decapitator: PREFERED_FOE is leaders
+	- Mage Slayer: PREFERED_FOE is controllers
+	- Frontal Assault: PREFERED_FOE is defenders
+	- Hunter Killer: PREFERED_FOE is strikers
+- Commander: Will use command if possible, before acting as a mindless destroyer
+- Coward: Will perform a move action (or a slippery if possible) whenever it shares a room with an enemy.
 
 ## The Dragon
