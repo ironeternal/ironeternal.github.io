@@ -23,7 +23,7 @@ The avaliable actions to each hero are:
 
 - Move: move from the current room to an adjacent room
 - Attack: roll to kill an enemy in the current room (or an adjacent room if a hero is ranged)
-- Use an object
+- Use an item
 - Use a skill: You may only attempt an action if your character has the kind of class or skill that would allow them to do so. Standard DC for checks is 5 (on a d20 roll), hard checks are DC 10, and impossible checks are DC 15
 - Stabilise: Make a DC5 check to stop an out-of-action ally from bleeding to death. When no enemies exist on the game board a stabilised creature returns to 1 wounds.
 
@@ -101,11 +101,11 @@ The avaliable heros for any adventure are:
 - **Hardy(X)**: You have X extra wounds
 - **Heal**: As an action you may heal an ally of 1 wound
 - **Holy**: You deal two wounds to any unholy creature instead of one on a successful hit. Unholy creatures include: demons, undead, dragons
-- **Long Ranged**: You may attack any creature regardless of what room it is in
+- **Long Ranged**: You may attack any creature regardless of what room it is in.
 - **Lucky**: You may reroll DEF rolls of 1
 - **Powerful attacks**: When this creature wounds an enemy it deals 2 wounds instead of 1
-- **Ranged**: You may attack a creature in your current room or an adjacent room
-- **Scry**: You may see threats in a room before opening the door
+- **Ranged**: You may not attack a creature in your current room. You may attack a creature in an adjacent room.
+- **Scry**: You may see threats in a room before opening the door.
 - **Slippery**: You may move to another room after making an attack action
 - **Snapcaster**: You may make a single attack action when a room is opened before anyone else acts but after ambush creatures
 - **Song**: As an action you may give your allies +1 to hit
@@ -160,6 +160,9 @@ On 1 add a:
 ## Items
 
 2. Health potion: When an ally is reduced to 0 wounds, return them to 1 wound. Destroyed on use.
+2. Health potion: When an ally is reduced to 0 wounds, return them to 1 wound. Destroyed on use.
+2. Health potion: When an ally is reduced to 0 wounds, return them to 1 wound. Destroyed on use.
+2. Health potion: When an ally is reduced to 0 wounds, return them to 1 wound. Destroyed on use.
 4. Scroll of Magic Missle: 4 times attack (HIT:1) against any enemy in any room. Destroyed on use.
 5. Scroll of Mass Teleport: move all heros to a single room. Destroyed on use.
 1. +1 Magic Sword: Grant one hero +1 to their HIT
@@ -170,11 +173,11 @@ On 1 add a:
 12. Speeding Scimitar: Grant one hero +1 to their ATK
 8. Scroll of Resurrection: Return a dead hero to 1 wound. Destroyed on use.
 10. Bow of elven kind: Grant one hero who is ranged **long ranged**
-11. Belt of Dwarven Strength: Grant on hero **powerful attacks**
+11. Belt of Dwarven Strength: Grant one hero **powerful attacks**
 
 ## Monsters
 
-\<creature\> (\<level\>): \<tags\>
+\<creature\> (\<level\>, \<strategy\>): \<tags\>
 
 1. Goblin (7): charge
 2. Skeleton Spearman (7, coward): unholy, slippery
@@ -189,13 +192,11 @@ On 1 add a:
 6. Lich (8): unkillable, teleport, unholy
 9. Dragon (9): Breathweapon, Charge, hardy(2), Lucky, unholy
 
-
-
 ### Strategies:
 
 Each monster employs a strategy. Unless stated a creature is assumed to be a mindless destoyer:
 
-- **Mindless Destroyer**: Attacks closest enemy. If not enemy is in the current room the creature will move action closer to the party.
+- **Mindless Destroyer**: Attacks closest enemy. If no enemy is in the current room the creature will move action closer to the party.
 - **Targeted**: Attacks closest enemy. Prioritises attacking PREFERED_FOE. If a PREFERED_FOE is in the current room, creature attacks PREFERED_FOE. If a PREFERED_FOE is one move action away, the creature will move to the PREFERED_FOE's room. If a PREFERED_FOE is not in the current room or one move action away a random enemy in the current room will be attacked. If the current room is has no heroes in it the creature will move towards a PREFERED_FOE if one is fighting-fight, otherwise the creature will move to a random hero.
 	- **Snake Decapitator**: PREFERED_FOE is leaders
 	- **Mage Slayer**: PREFERED_FOE is controllers
