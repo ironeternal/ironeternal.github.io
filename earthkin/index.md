@@ -2,6 +2,7 @@
 
 - [Quick start](#quick-gen)
 - [Characters Attributes](#characters)
+	- [Stats](#stats)
 	- [Skills](#skills)
 - [Clases](#classes)
 	- [Hurtmonger](#hurtmonger-fighting-man)
@@ -30,7 +31,7 @@
 
 > Earth kith or kith for short (earth kin/kin singular) are a small humanoid species than inhabit the continent. They're very similar to humans and have near identical physiology; however, at around 10 years old they cease to increase in height. They experience very similar puberties and maturity, but simply never increase in height. At their tallest they're 4 foot (120 cm-ish). Their culture is strongly modeled off hobbits, goblins, and halflings.
 
-You start the game with 4 kith and an adventuring group called a fungather.
+You start the game with 4 kith in an adventuring group called a fungather.
 
 ### Quick gen
 
@@ -38,7 +39,7 @@ You start the game with 4 kith and an adventuring group called a fungather.
 
 For each kin:
 
-1. 4d6 in order (Might, Finesse, Wit, Will)
+1. 5d6 in order (Might, Finesse, Wit, Will, Fellowship)
 1. Total health = 15 + 2 * (Current Level + Might)
 2. Pick class and roll 1d10:
 	- If Might is greatest: **Hurtmonger**
@@ -66,16 +67,19 @@ For each kin:
 <img src="https://64.media.tumblr.com/85585f20cc37e3f8086314706a698ab7/2603782ae79f9616-b7/s1280x1920/051ec6247b176f8453b8904ec1e534fbb084ab23.jpg" width="400"/>
 
 
-## Stats (4d6)
+## Stats
 
 - **Might**: gross motor skills, strength, power, stamina, flexibility
 - **Finesse**: Fine motor skills, dexterity, agility, coordination, balance
 - **Wits**: Raw intelligence, brains, instinct, problem solving, pattern recognition, quick thinking
 - **Will**: Willpower, mental resilience, resolve, fortitude, conviction
+- **Fellowship**: Friendliness, comeliness, charisma, magnetism, charm
 
 Stats may never exceed 6 without magic. 12 with magic.
 
 > Wits does not represent your education, it represents your general intelligence. An educated character may have low brains but **will** have skills
+
+> Fellowship does not represent how good you are at giving speeches or wearing disguises. It represents your overall likability and capacity to make a positive impression on others. It does not help with intimidation (genuine threats do) or being someone you're not (use wordcraft).
 
 ## Skills
 
