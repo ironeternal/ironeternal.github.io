@@ -1,4 +1,19 @@
-# SRD
+# Earthking System Reference Document
+
+- [Quick start](#quick-gen)
+- [Characters Attributes](#characters)
+	- [Skills](#skills)
+- [Clases](#classes)
+	- [Hurtmonger](#hurtmonger-fighting-man)
+	- [Talkingbrain](#talkingbrain-skilled-nerd)
+	- [Wortwalker](#wortwalker-mystical-wanderer)
+- [System Overview](#core-system)
+- [Kit and Equipment](#kit)
+	- [Starting kit](#starting-kit)
+	- [Weapons](#weapons)
+	- [Armour](#armour)
+- [Spells](#spells)
+- [Leveling & Dying](#leveling-and-dying)
 
 #### Tips n tricks
 
@@ -7,16 +22,17 @@
 - Work together
 - If in doubt run away
 - Look for solutions off the character sheet
+- A horse is faster than walking, and a mule can carry more than a man
 
 ## Earthkith
 
-<img src="https://64.media.tumblr.com/44de2209b0374f23bf2d63e3f42579eb/0590622badf30b9f-56/s1280x1920/e549dbc94f3af13e2c4547dbf8d96e25f438415d.jpg" width="400"/>
+<img src="https://64.media.tumblr.com/102fb4e6552d35ce5adea47c24572566/64009a9aa95be196-d1/s1280x1920/2e7b879fe72c4af26dd48fae027462b9dda959da.jpg" width="400"/>
 
-> Earth kith or kith for short (earth kin/kin singular) are a small humanoid species than inhabit the continent. They're very similar to humans and have near identical physiology; however, at around 10 years old they cease to increase in height. They experience very similar puberties and maturity, but simply never increase in height. At their tallest they're 4 and a half feet (140 cm-ish). Their culture is strongly modeled off hobbits, goblins, and halflings.
+> Earth kith or kith for short (earth kin/kin singular) are a small humanoid species than inhabit the continent. They're very similar to humans and have near identical physiology; however, at around 10 years old they cease to increase in height. They experience very similar puberties and maturity, but simply never increase in height. At their tallest they're 4 foot (120 cm-ish). Their culture is strongly modeled off hobbits, goblins, and halflings.
 
 You start the game with 4 kith and an adventuring group called a fungather.
 
-Quick gen:
+### Quick gen
 
 > All kin start at level 1
 
@@ -26,7 +42,7 @@ For each kin:
 1. Total health = 15 + 2 * (Current Level + Might)
 2. Pick class and roll 1d10:
 	- If Might is greatest: **Hurtmonger**
-		- Roll 1d10 for a preferred weapon (or just pick):
+		- Roll 1d10 for a preferred [weapons](#weapons) (or just pick):
 			1. Light Blunt
 			2. Light Sharp
 			3. Light Pointy
@@ -47,7 +63,7 @@ For each kin:
 
 # Characters
 
-<img src="https://64.media.tumblr.com/41e498bc8b82987000ab67ca9f46e98d/90a8fbb3acb9fd71-22/s1280x1920/beae75b6c52938b1eec533baf42495e658e4c085.jpg" width="400"/>
+<img src="https://64.media.tumblr.com/85585f20cc37e3f8086314706a698ab7/2603782ae79f9616-b7/s1280x1920/051ec6247b176f8453b8904ec1e534fbb084ab23.jpg" width="400"/>
 
 
 ## Stats (4d6)
@@ -78,9 +94,13 @@ Stats may never exceed 6 without magic. 12 with magic.
 
 # Classes
 
-<img src="https://64.media.tumblr.com/243422b389cb5d06ccedd6baf66b170d/0d1adc731ddd37e7-59/s1280x1920/a628e188e84797f7cd7c01a5990f962665461873.jpg" width="400"/>
 
 ## Hurtmonger (Fighting Man)
+
+> Hurtmongers are the biggest, toughest, and mightiest kin. They use strength, speed and cunning to do good. They often pick up a couple of skills along the way, but prefer to avoid magic due to its instability.
+
+<img src="https://64.media.tumblr.com/e0505b920d6b13e4d6b57fa0f28c73f8/5030d2abb8cf4ff3-13/s1280x1920/2c69fbc6541c7e59626fa047357e715e78b89bed.jpg" width="400"/>
+
 |Level|Experience (Total)|Advancement|Combat Prowess|Skills Known|Spells Known|
 |-:|-:|:-|-:|-:|-:|
 |1|0||1|-|-|
@@ -91,6 +111,12 @@ Stats may never exceed 6 without magic. 12 with magic.
 |6|30|Gain a minor deserted fort|6|3|2|
 
 ## Talkingbrain (Skilled Nerd)
+
+> Talkingbrain are educated and skilled kin who are quick to learn and are already skilled at a thing or two. They're bad at fighting, and prefer to think their way out of a problem.
+
+<img src="https://64.media.tumblr.com/44de2209b0374f23bf2d63e3f42579eb/0590622badf30b9f-56/s1280x1920/e549dbc94f3af13e2c4547dbf8d96e25f438415d.jpg" width="400"/>
+
+
 |Level|Experience (Total)|Advancement|Combat Prowess|Skills Known|Spells Known|
 |-:|-:|:-|-:|-:|-:|
 |1|0||-|1|-|
@@ -101,6 +127,11 @@ Stats may never exceed 6 without magic. 12 with magic.
 |6|30|Gain a rundown inn|2|6|3|
 
 ## Wortwalker (Mystical Wanderer)
+
+> Wortwalkers are the most magical Kin. They prefer to use sorcery to solve their problems. They're deeply connected to the physical world and its working, and as such are often strong and fit. They know how to hunt and fight, but neglect skills and trades.
+
+<img src="https://64.media.tumblr.com/b290bf072513f3d6cfefd0545b778e84/cf1f3162661d028f-dc/s1280x1920/4edb5949773b8b4f09456c166a609232a6f749a5.jpg" width="400"/>
+
 |Level|Experience (Total)|Advancement|Combat Prowess|Skills Known|Spells Known|
 |-:|-:|:-|-:|-:|-:|
 |1|0||-|-|1|
@@ -110,9 +141,9 @@ Stats may never exceed 6 without magic. 12 with magic.
 |5|20|Increase your will by 1|2|1|5|
 |6|30|Gain a small remote tower|3|2|6|
 
-# Core Checks
+# Core System
 
-<img src="https://64.media.tumblr.com/0911843c83ebdc1b05d4aa5eca2b65f5/aa32af327f0612df-95/s1280x1920/2c1ad8257a96cd5902444796c14dd2a1eaf7e53f.jpg" width="400"/>
+<img src="https://64.media.tumblr.com/2cab453938048d023044248919a66616/083b1be83973ff81-5d/s1280x1920/519e24e1859ca765c9b13a61d645599e7f35be4a.jpg" width="400"/>
 
 ## Checks
 
@@ -149,7 +180,7 @@ On a STANDARD hit deal STANDARD hit damage. On a STRONG hit deal STRONG hit dama
 
 # Kit
 
-<img src="https://64.media.tumblr.com/faaa0fb32de7122834646ca54524eb2d/efe201e0d99cf176-93/s1280x1920/6e4f569cde87e3c3e7b03cd0edd8c57e64febc93.jpg" width="400"/>
+<img src="https://64.media.tumblr.com/4a0c675fa170d9eb0c5df33d95d6f4f1/b6e5cf984c9875bf-ca/s1280x1920/8d6bdc075ee1fc2acc1c80081c754d338e3f8876.jpg" width="400"/>
 
 ## Starting kit
 
@@ -207,7 +238,7 @@ All fungathers are equipped with standard adventuring equipment (rope, first aid
 
 # Spells
 
-<img src="https://i.redd.it/c5na07dyi7e51.jpg" width="400"/>
+<img src="https://64.media.tumblr.com/2736713b567a12571cfbf1d4ba41eee2/bad92b290cb4e0b2-e4/s1280x1920/a523b1a5dbce830b42d2f7d896efc8f3cb43bd45.jpg" width="400"/>
 
 Spells require the caster to say a loud incantation, wave around a censer in one hand, and gesture with a Shillelagh (staff) in the other. 
 
@@ -231,7 +262,7 @@ Roll 2d6 to determine spell strength:
 
 # Leveling and dying
 
-<img src="https://64.media.tumblr.com/774ba779aea0b74b42783e5af80c3cb2/efe201e0d99cf176-eb/s1280x1920/20b05eab201e19f31ccfc5daaaa07d123430540f.jpg" width="400"/>
+<img src="https://64.media.tumblr.com/bfc312353807c690d0eaef5326118cc2/b1644eb2e0d30887-3f/s1280x1920/7fc1232bf7bbf37755cb896b4ae243450a748fb1.jpg" width="400"/>
 
 - A kin will die if its fails a death save. It must make a death (Will) save every turn it has negative hit points and does not receive medical attention. The DC for all death related checks is equal to the magnitude of the kin's hit points. Sawbones + finesse check will stabilize a kin.
 - You gain experience when you do something noteworthy, bring back 100 GP in treasure, and a member of your fungather dies valiantly. To level a kin costs a number of experience equal to the kin's current level.
@@ -243,4 +274,4 @@ Roll 2d6 to determine spell strength:
 [Art source](https://wanderingisland.tumblr.com/)
 
 
-<img src="https://64.media.tumblr.com/19ce016bba7f22173a7c2eb00402f2d1/efe201e0d99cf176-25/s1280x1920/d3582ae7c8687724531d9bf810cd5f56b62665c1.jpg" width="400"/>
+<img src="https://64.media.tumblr.com/a2b7ca72b60986deaad2f9a36ea3d71a/3020cf2c303e415c-dd/s1280x1920/ec08125e0f8a866a706a2390bf94e031a62cc897.jpg" width="400"/>
