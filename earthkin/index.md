@@ -4,7 +4,7 @@
 
 ## Earthkith
 
-> Earth kith or kith for short (earth kin/kin singular) are a small humanoid species than inhabit the continent. They're very similar to humans and have near identical physiology; however, at around 10 years old they cease to increase in height. The yexperience very similar puberties and maturity, but simply never increase in height. At their tallest they're 4 and a half feet (140 cm-ish). Their culture is strongly modelled off hobbits, goblins, and halflings.
+> Earth kith or kith for short (earth kin/kin singular) are a small humanoid species than inhabit the continent. They're very similar to humans and have near identical physiology; however, at around 10 years old they cease to increase in height. They experience very similar puberties and maturity, but simply never increase in height. At their tallest they're 4 and a half feet (140 cm-ish). Their culture is strongly modeled off hobbits, goblins, and halflings.
 
 You start the game with 4 kith and an adventuring group called a fungather.
 
@@ -18,7 +18,7 @@ For each kin:
 1. Total health = 15 + 2 * (Current Level + Might)
 2. Pick class and roll 1d10:
 	- If Might is greatest: **Hurtmonger**
-		- Roll 1d10 for a prefered weapon (or just pick):
+		- Roll 1d10 for a preferred weapon (or just pick):
 			1. Light Blunt
 			2. Light Sharp
 			3. Light Pointy
@@ -46,7 +46,7 @@ For each kin:
 - **Might**: gross motor skills, strength, power, stamina, flexibility
 - **Finesse**: Fine motor skills, dexterity, agility, coordination, balance
 - **Wits**: Raw intelligence, brains, instinct, problem solving, pattern recognition, quick thinking
-- **Will**: Willpower, mental reslience, resolve, fortitude, conviction
+- **Will**: Willpower, mental resilience, resolve, fortitude, conviction
 
 Stats may never exceed 6 without magic. 12 with magic.
 
@@ -56,15 +56,15 @@ Stats may never exceed 6 without magic. 12 with magic.
 
 > +3 to a skill check, may be picked a second time for +6
 
-1. **Lifelore**: monsters, bushcraft, herbology, animal husbandry, tracking
+1. **Lifelore**: monsters, bushcraft, herblore, animal husbandry, tracking
 1. **Booklore**: constructs, mathematics, architecture, material sciences
-1. **Ghostlore**: spirits, monsters, spells, demons, alchemy
+1. **Dweomercraft**: spirits, monsters, spells, demons, alchemy
 1. **Kithlore**: accents, customs, geography, religion, culture, history
-1. **Locallore X**: neighbourhoods, streets, buyers, sellers, factions
-1. **Craft X**: Craft specific skills (tailor, accountant, jeweller)
+1. **Locallore X**: neighborhoods, streets, buyers, sellers, factions
+1. **Craft X**: Craft specific skills (tailor, accountant, jeweler)
 1. **Sickcraft**: first aid, pathology, autopsy, diagnosis
-1. **Sneaking**: concealing, camoplauge, hiding, stealth, covering tracks
-1. **Thiefcraft**: lockpicking, safe cracking, breaking and entering
+1. **Sneaking**: concealing, camouflage, hiding, stealth, covering tracks
+1. **Thiefcraft**: lock picking, safe cracking, breaking and entering
 1. **Wordcraft**: persuasion, negotiation, oration, accents
 
 # Classes
@@ -133,7 +133,7 @@ On a STANDARD hit deal STANDARD hit damage. On a STRONG hit deal STRONG hit dama
 - **Trip**: trip the target
 - **Shove**: shove the target
 - **Disengage**: target can not take attacks of opportunity until their next turn
-- **Fient**: removes prowess bonus from target defence until their next turn
+- **Feint**: removes prowess bonus from target defense until their next turn
 
 
 # Kit
@@ -143,20 +143,20 @@ On a STANDARD hit deal STANDARD hit damage. On a STRONG hit deal STRONG hit dama
 ## Starting kit
 
 - 2 handed weapon or 1 handed/light weapon and shield (AC +2) or Shillelagh & Censer
-- Brigandine armour (min Might 1, AC +2) or Maile (min Might 3, AC +4) or Chainkini (+1 on social rolls)
+- Brigandine Armour (min Might 1, AC +2) or Maile (min Might 3, AC +4) or Chainkini (+1 on social rolls)
 
 Shared among your 4 kin you have:
 
 - Personal/luxury item (e.g. bottle of wine, scarf, big hat, or arm chair)
-- Sentimnetal item (e.g. locket, ring, or photograph)
+- Sentimental item (e.g. locket, ring, or photograph)
 - Quest item (e.g. broken sword hilt, mysterious key, torn letter, or treasure map)
 - No money
 
-All fungathers are equiped with standard adventuring equipment (rope, first aid kit, tinderbox, bedroll, waterskin, etc). If there is a specific item you would like to have, have the smartest Kin in your party to a DC7 wits check.
+All fungathers are equipped with standard adventuring equipment (rope, first aid kit, tinderbox, bedroll, water skin, etc). If there is a specific item you would like to have, have the smartest Kin in your party to a DC7 wits check.
 
 ## Weapons
 
-|Weapon|Usage|Damage Type|Stardard Hit|Strong Hit|Cost|Special (sp)|
+|Weapon|Usage|Damage Type|Standard Hit|Strong Hit|Cost|Special (sp)|
 |:-|:-|:-|:-|:-|:-|:-|
 |Fist|-|Blunt|5|10|-||
 |Sap|Light|Blunt|4|14|10||
@@ -178,7 +178,7 @@ All fungathers are equiped with standard adventuring equipment (rope, first aid 
 - Light weapons may be thrown
 - 2 Handed weapons have greater range and are more able to strike foes without exposing the wielder (+1 on combat)
 - Blunt weapons tend to bounce off target but when the land a solid hit they crush and shatter with greater power than other weapons (+6 damage on strong hit)
-- Pointy weapons are more able to leverage their size for offence and defence increasing their likelihood to wound (+1 on combat)
+- Pointy weapons are more able to leverage their size for offense and defense increasing their likelihood to wound (+1 on combat)
 - Glancing hits with Sharp weapons result in deep slashes, all hits from Sharp weapons deal slightly more damage than other weapons (+3 damage on hit)
 
 ## Armour
@@ -192,7 +192,7 @@ All fungathers are equiped with standard adventuring equipment (rope, first aid 
 |Panoply|6|4|1600|Heavy|
 |Shield|2|1|50|Held, not worn|
 
-> \*Maile of all kinds is considered a status symbol. Jewellery is often constructed with it. Wearing only large-linked chainmail and neglecting actual defence is a symbol of confidence and skill. Soldiers, civillians, and monsters all recognise it as a profound statement.
+> \*Maile of all kinds is considered a status symbol. Jewelery is often constructed with it. Wearing only large-linked chain mail and neglecting actual defense is a symbol of confidence and skill. Soldiers, civilians, and monsters all recognize it as a profound statement.
 
 # Spells
 
@@ -212,9 +212,9 @@ Roll 2d6 to determine spell strength:
 5. **Illusion** (50ft, 10ft diameter, Concentration, Wits): You create an illusion (basically a perfect hologram) of whatever object or creature you want. It can move as long however you dictate, but it cannot make any sound (or smell, touch, etc). Remember that illusions can only add, not subtract. (They can cover up a hole, but not create the illusion of a hole).
 6. **Light** (touch, object, 4 hrs): Object illuminates within 30ft. With a successful attack roll, you can touch a creature's face, blinding them with glare.
 7. **Magic Missile** (200ft. creature): Create LARGE missles that each deal 1 damage (may be split among targets), no save or resistance.
-8. **Raise Skeleton** (touch, corpse, concentration): Target becomes a skeleton (AC5, 5hp, +0 to everything) that will kill living creatures on sight (otherwise idle). Make Will checks to command them to move, kill, or not kill. They're otherwise mindless. Can be equiped with weapons and armor. You can learn this spell more than once to cast it more than once at a time. _This spell is considered evil_
+8. **Raise Skeleton** (touch, corpse, concentration): Target becomes a skeleton (AC5, 5hp, +0 to everything) that will kill living creatures on sight (otherwise idle). Make Will checks to command them to move, kill, or not kill. They're otherwise mindless. Can be equipped with weapons and armor. You can learn this spell more than once to cast it more than once at a time. _This spell is considered evil_
 9. **Animate Object** (touch, object, 1hr, Will): Target become friendly creature (AC5, 5hp, +0 to everything) that can move under their own power. Make Will checks to command them. They're about as smart as a trained dog, and can talk. You can learn this spell more than once to cast it more than once at a time.
-0. **Filtch** (50ft, object small enough to be wield 1 handed, Might): Target object is either teleported to your hand or from your hand to a location you can see. To take an object requires whatever is holding it to fail a Might check.
+0. **Filch** (50ft, object small enough to be wield 1 handed, Might): Target object is either teleported to your hand or from your hand to a location you can see. To take an object requires whatever is holding it to fail a Might check.
 
 <img src="https://64.media.tumblr.com/774ba779aea0b74b42783e5af80c3cb2/efe201e0d99cf176-eb/s1280x1920/20b05eab201e19f31ccfc5daaaa07d123430540f.jpg" width="400"/>
 
