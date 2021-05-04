@@ -1,8 +1,8 @@
 # SRD
 
-<img src="https://64.media.tumblr.com/44de2209b0374f23bf2d63e3f42579eb/0590622badf30b9f-56/s1280x1920/e549dbc94f3af13e2c4547dbf8d96e25f438415d.jpg" width="400"/>
-
 ## Earthkith
+
+<img src="https://64.media.tumblr.com/44de2209b0374f23bf2d63e3f42579eb/0590622badf30b9f-56/s1280x1920/e549dbc94f3af13e2c4547dbf8d96e25f438415d.jpg" width="400"/>
 
 > Earth kith or kith for short (earth kin/kin singular) are a small humanoid species than inhabit the continent. They're very similar to humans and have near identical physiology; however, at around 10 years old they cease to increase in height. They experience very similar puberties and maturity, but simply never increase in height. At their tallest they're 4 and a half feet (140 cm-ish). Their culture is strongly modeled off hobbits, goblins, and halflings.
 
@@ -60,8 +60,8 @@ Stats may never exceed 6 without magic. 12 with magic.
 1. **Booklore**: constructs, mathematics, architecture, material sciences
 1. **Dweomercraft**: spirits, monsters, spells, demons, alchemy
 1. **Kithlore**: accents, customs, geography, religion, culture, history
-1. **Locallore X**: neighborhoods, streets, buyers, sellers, factions
-1. **Craft X**: Craft specific skills (tailor, accountant, jeweler)
+1. **Locallore**: neighborhoods, streets, buyers, sellers, factions
+1. **Craft X**: Craft specific skills (cutter, cooper, potter, jeweler)
 1. **Sickcraft**: first aid, pathology, autopsy, diagnosis
 1. **Sneaking**: concealing, camouflage, hiding, stealth, covering tracks
 1. **Thiefcraft**: lock picking, safe cracking, breaking and entering
@@ -91,7 +91,7 @@ Stats may never exceed 6 without magic. 12 with magic.
 
 ## Druid
 
-> Druids are the most magical Kin. They prefer to use sorcery to solve their problems. They're deeply connected to the physical world and its working, and as such are often strong and fit.
+> Druids are the most magical Kin. They prefer to use sorcery to solve their problems. They're deeply connected to the physical world and its working, and as such are often strong and fit. They know how to hunt and fight, but neglect skills and trades.
 
 - A Druid gets 1 new spell every level
 	- +1 to the Might or Will on odd levels, excluding level 1
@@ -134,7 +134,6 @@ On a STANDARD hit deal STANDARD hit damage. On a STRONG hit deal STRONG hit dama
 - **Shove**: shove the target
 - **Disengage**: target can not take attacks of opportunity until their next turn
 - **Feint**: removes prowess bonus from target defense until their next turn
-
 
 # Kit
 
@@ -216,7 +215,14 @@ Roll 2d6 to determine spell strength:
 9. **Animate Object** (touch, object, 1hr, Will): Target become friendly creature (AC5, 5hp, +0 to everything) that can move under their own power. Make Will checks to command them. They're about as smart as a trained dog, and can talk. You can learn this spell more than once to cast it more than once at a time.
 0. **Filch** (50ft, object small enough to be wield 1 handed, Might): Target object is either teleported to your hand or from your hand to a location you can see. To take an object requires whatever is holding it to fail a Might check.
 
+# Leveling and dying
+
 <img src="https://64.media.tumblr.com/774ba779aea0b74b42783e5af80c3cb2/efe201e0d99cf176-eb/s1280x1920/20b05eab201e19f31ccfc5daaaa07d123430540f.jpg" width="400"/>
+
+- A kin will die if its fails a death save. It must make a death (Will) save every turn it has negative hit points and does not receive medical attention. The DC for all death related checks is equal to the magnitude of the kin's hit points. Sickcraft + finesse check will stabilize a kin.
+- You gain experience when you do something noteworthy, bring back 100 GP in treasure, and a member of your fungather dies valiantly. To level a kin costs a number of experience equal to the kin's current level.
+- If your entire fungather dies then you lose all of your experience, equipment, and you start again with a fresh fungather.
+
 
 
 [Art source](https://wanderingisland.tumblr.com/)
