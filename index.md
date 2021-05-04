@@ -2,6 +2,7 @@
 
 - [Rogues and relics](rnr.md)
 - [Homespun Dungeon Crawl](warband.md) 
+- [Earthkin](warband.md) 
 
 
 
