@@ -15,6 +15,7 @@
 	- [Armour](#armour)
 - [Spells](#spells)
 - [Leveling & Dying](#leveling-and-dying)
+	- [Quirks](#quirks)
 
 #### Tips n tricks
 
@@ -108,7 +109,7 @@ Stats may never exceed 6 without magic. 12 with magic.
 |Level|Experience (Total)|Advancement|Combat Prowess|Skills Known|Spells Known|
 |-:|-:|:-|-:|-:|-:|
 |1|0||1|-|-|
-|2|2|Gain a fighter quirk|2|1|-|
+|2|2|Gain a [fighter quirk](#fighter-quirk)|2|1|-|
 |3|6|Increase your finesse by 1|3|1|-|
 |4|12|Gain a loyal squire|4|2|1|
 |5|20|Increase your might by 1|5|2|1|
@@ -124,7 +125,7 @@ Stats may never exceed 6 without magic. 12 with magic.
 |Level|Experience (Total)|Advancement|Combat Prowess|Skills Known|Spells Known|
 |-:|-:|:-|-:|-:|-:|
 |1|0||-|1|-|
-|2|2|Gain an expert quirk|-|2|1|
+|2|2|Gain an [expert quirk](#expert-quirk)|-|2|1|
 |3|6|Increase your finesse by 1|-|3|1|
 |4|12|Gain a helpful assistant|1|4|2|
 |5|20|Increase your wits by 1|1|5|2|
@@ -139,7 +140,7 @@ Stats may never exceed 6 without magic. 12 with magic.
 |Level|Experience (Total)|Advancement|Combat Prowess|Skills Known|Spells Known|
 |-:|-:|:-|-:|-:|-:|
 |1|0||-|-|1|
-|2|2|Gain a magic user quirk|1|-|2|
+|2|2|Gain a [mage quirk](#mage-quirk)|1|-|2|
 |3|6|Increase your might by 1|1|-|3|
 |4|12|Gain a sassy familiar|2|1|4|
 |5|20|Increase your will by 1|2|1|5|
@@ -273,9 +274,46 @@ Roll 2d6 to determine spell strength:
 - If your entire fungather dies then you lose all of your experience, equipment, and you start again with a fresh fungather.
 - If a fungather member dies you can try to convince someone to join the fungather, pay someone (100 gp), or find some other means.
 
+## Quirks
+## Fighter Quirk
 
+1. You're actually a fantastic baker
+1. Your actually the heir apparent gone AWOL
+2. You talk to your weapon, sometimes it talks back
+3. You have the broken hilt to a legendary sword
+4. You're actually a character from a children's game of pretend that came to life
+5. You once slew a dragon but no one believes you
+6. You're the heir to a disgraced house
+7. There's a witch that is desperately in love with you, and you're avoiding her
+8. The princess is in love with you, but you must keep your romance secret
+9. You were a veteran of a war that no one remembers
+
+## Expert Quirk
+
+1. You have a fake eye/leg/?
+1. There's a tattoo on your back that moves around sometimes
+2. Occasionally you'll lose your shadow, and when you find it again it sometimes has treats
+3. You have a treasure map branded on your leg that no one knows about
+4. You're not who you claim to be. You assumed your current identity when the last guy died
+5. You have an evil(er) twin
+6. Before this life you were a pirate king
+7. You owe a lot of money to a very bad man
+8. You're actually a fantastic dancer
+9. You were once a very accomplished thief, but your skills were taken by a strange poison
+
+## Mage Quirk
+
+1. You get your power from a talking skull
+1. Your spells are actually spirits that inhabit your body
+2. Sometimes your body gets borrowed by ghosts when you sleep
+3. You once met a dragon, things happened, and you might have a kid
+4. You stole a dragons ring, and one of these days he's coming for it
+5. You can turn into a sheep if you hold your breath and turn in circles
+6. You're actually a fantastic flutist
+7. You have memories of a life in another land in 50 years time
+8. One time you had a dream of a secret ritual that you're too scared to cast
+9. You're actually a bear that got transformed into an earthkin by a witch
 
 [Art source](https://wanderingisland.tumblr.com/)
-
 
 <img src="https://64.media.tumblr.com/a2b7ca72b60986deaad2f9a36ea3d71a/3020cf2c303e415c-dd/s1280x1920/ec08125e0f8a866a706a2390bf94e031a62cc897.jpg" width="400"/>
