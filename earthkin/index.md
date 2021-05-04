@@ -19,16 +19,16 @@ For each kin:
 2. Pick class and roll 1d10:
 	- If Might is greatest: **Hurtmonger**
 		- Roll 1d10 for a prefered weapon (or just pick):
-			- 1. Light Blunt
-			- 2. Light Sharp
-			- 3. Light Pointy
-			- 4. 1 Handed Blunt
-			- 5. 1 Handed Sharp
-			- 6. 1 Handed Pointy
-			- 7. 2 Handed Blunt
-			- 8. 2 Handed Sharp
-			- 9. 2 Handed Pointy
-			- 10. Bow
+			1. Light Blunt
+			2. Light Sharp
+			3. Light Pointy
+			4. 1 Handed Blunt
+			5. 1 Handed Sharp
+			6. 1 Handed Pointy
+			7. 2 Handed Blunt
+			8. 2 Handed Sharp
+			9. 2 Handed Pointy
+			10. Bow
 		- Gain +1 combat combat prowess
 	- If Wit is greatest: **Micklewit**
 		- Roll 1d10 for a [skill](#skills) (or just pick)
