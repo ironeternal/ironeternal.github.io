@@ -1,4 +1,4 @@
-# Earthkin System Reference Document
+# Earthfolk System Reference Document
 
 - [Quick start](#quick-gen)
 - [Characters Attributes](#characters)
@@ -25,32 +25,34 @@
 - Look for solutions off the character sheet
 - A horse is faster than walking, and a mule can carry more than a man
 
-## Earthkith
+## Earthfolk
 
 <img src="https://64.media.tumblr.com/102fb4e6552d35ce5adea47c24572566/64009a9aa95be196-d1/s1280x1920/2e7b879fe72c4af26dd48fae027462b9dda959da.jpg" width="400"/>
 
-> Earth kith or kith for short (earth kin/kin singular) are a small humanoid species than inhabit the continent. They're very similar to humans and have near identical physiology; however, at around 10 years old they cease to increase in height. They experience very similar puberties and maturity, but simply never increase in height. At their tallest they're 4 foot (120 cm-ish). Their culture is strongly modeled off hobbits, goblins, and halflings.
+> Earthfolk or Folk for short are a small humanoid species than inhabit the continent. They're very similar to humans and have near identical physiology; however, at around 10 years old they cease to increase in height. They experience very similar puberties and maturity, but simply never increase in height. At their tallest they're 4 foot (120 cm-ish). Their culture is strongly modeled off hobbits, goblins, and halflings.
 
 
 ### Quick gen
 
-You start the game with 6 kith in an adventuring group called a fungather.
+You start the game with 6 Folk in an adventuring group called a fungather.
 
-> All kin start at level 1
+> All folk start at level 1
 
-For each kin:
+For each folk:
 
 1. 5x(1d6) in order (Might, Finesse, Wit, Will, Fellowship)
 1. Total health = 6 + Current Level + Might
 2. Pick class and roll 1d10:
-	- If Might is greatest: **Hurtmonger**
+	- If Might is greatest: **[Hurtmonger](#hurtmonger-fighting-man)**
 		- Gain +1 combat combat prowess
-	- If Wit is greatest: **Talkingbrain**
+	- If Wit is greatest: **[Talkingbrain](#talkingbrain-skilled-nerd)**
 		- Roll 1d10 for a [skill](#skills) (or just pick)
-	- If Might is greatest: **Wortwalker**
+	- If Might is greatest: **[Wortwalker](#wortwalker-mystical-wanderer)**
 		- Roll 1d10 for a [spell](#spells) (or just pick)
 4. Select [kit](#kit)
-5. Pick a name and personality or roll for one
+5. Pick a name and personality or roll for one. Keep it brief, they'll probably die soon
+
+Elect an Earl for the fungather. The Earl is the spokesperson for the fungather and will usually be the most likable or intelligent folk in the fungather. The earl is always addressed as Earl NAME by the rest of the fungather.
 
 # Characters
 
@@ -91,7 +93,7 @@ Stats may never exceed 6 without magic. 12 with magic.
 
 ## Hurtmonger (Fighting Man)
 
-> Hurtmongers are the biggest, toughest, and mightiest kin. They use strength, speed and cunning to do good. They often pick up a couple of skills along the way, but prefer to avoid magic due to its instability.
+> Hurtmongers are the biggest, toughest, and mightiest folk. They use strength, speed and cunning to do good. They often pick up a couple of skills along the way, but prefer to avoid magic due to its instability.
 
 <img src="https://64.media.tumblr.com/e0505b920d6b13e4d6b57fa0f28c73f8/5030d2abb8cf4ff3-13/s1280x1920/2c69fbc6541c7e59626fa047357e715e78b89bed.jpg" width="400"/>
 
@@ -111,7 +113,7 @@ Hurtmongers deal:
 
 ## Talkingbrain (Skilled Nerd)
 
-> Talkingbrain are educated and skilled kin who are quick to learn and are already skilled at a thing or two. They're bad at fighting, and prefer to think their way out of a problem.
+> Talkingbrain are educated and skilled folk who are quick to learn and are already skilled at a thing or two. They're bad at fighting, and prefer to think their way out of a problem.
 
 <img src="https://64.media.tumblr.com/44de2209b0374f23bf2d63e3f42579eb/0590622badf30b9f-56/s1280x1920/e549dbc94f3af13e2c4547dbf8d96e25f438415d.jpg" width="400"/>
 
@@ -131,7 +133,7 @@ Talkingbrains deal:
 
 ## Wortwalker (Mystical Wanderer)
 
-> Wortwalkers are the most magical Kin. They prefer to use sorcery to solve their problems. They're deeply connected to the physical world and its working, and as such are often strong and fit. They know how to hunt and fight, but neglect skills and trades.
+> Wortwalkers are the most magical folk. They prefer to use sorcery to solve their problems. They're deeply connected to the physical world and its working, and as such are often strong and fit. They know how to hunt and fight, but neglect skills and trades.
 
 <img src="https://64.media.tumblr.com/b290bf072513f3d6cfefd0545b778e84/cf1f3162661d028f-dc/s1280x1920/4edb5949773b8b4f09456c166a609232a6f749a5.jpg" width="400"/>
 
@@ -171,29 +173,17 @@ Roll 2d6 + Bonus vs Threshold
 
 Combat is resolved clockwise in the following order:
 
-1. melee rolls to trade blows
-1. object interactions and movements
-1. fire shots
-1. cast spells
+1. Melee rolls to trade blows
+	- You are automatically hit in combat. Your armour and skill in combat reduce the amount of damage that you take. Your weapon and skill in combat determine how much damage you deal. All creatures in melee deal damage and then resolve whether or not they are killed.
+1. Object interactions and movements
+	- You can move approximately 30 foot per turn.
+1. Fire shots
+	- You can not fire a ranged weapon while engaged in melee combat. Damage is dealt in the same manner as trade blows.
+1. Cast spells
+	- You can not fire a cast a spell while engaged in melee combat.
 
-### Trade blows
-
-You are automatically hit in combat. Your armour and skill in combat reduce the amount of damage that you take. Your weapon and skill in combat determine how much damage you deal. All creatures in melee deal damage and then resolve whether or not they are killed.
-
-- Damage dealt: class weapon damage + combat prowess + Might
-- Damage reduction: Armour damage reduction + combat prowess + Finesse
-
-### Movement
-
-You can move approximately 30 foot per turn.
-
-### Fire shots
-
-You can not fire a ranged weapon while engaged in melee combat. Damage is dealt in the same manner as trade blows.
-
-### Cast spells
-
-You can not fire a cast a spell while engaged in melee combat.
+- **Damage dealt**: class weapon damage + combat prowess + Might
+- **Damage reduction**: Armour damage reduction + combat prowess + Finesse
 
 # Kit
 
@@ -204,14 +194,14 @@ You can not fire a cast a spell while engaged in melee combat.
 - 2 handed weapon or 1 handed/light weapon and shield or Shillelagh & Censer
 - Brigandine Armour or Maile or Chainkini 
 
-Shared among your 4 kin you have:
+Shared among your fungather you have:
 
 - Personal/luxury item (e.g. bottle of wine, scarf, big hat, or arm chair)
 - Sentimental item (e.g. locket, ring, or photograph)
 - Quest item (e.g. broken sword hilt, mysterious key, torn letter, or treasure map)
 - No money
 
-All fungathers are equipped with standard adventuring equipment (rope, first aid kit, tinderbox, bedroll, water skin, etc). If there is a specific item you would like to have, have the smartest Kin in your party to a DC7 wits check.
+All fungathers are equipped with standard adventuring equipment (rope, first aid kit, tinderbox, bedroll, water skin, etc). If there is a specific item you would like to have, have the Earl in your party to a DC7 wits check.
 
 ## Armour
 
@@ -256,10 +246,9 @@ On a snake eyes the spell fails and you can not cast it again until you rest and
 
 <img src="https://64.media.tumblr.com/bfc312353807c690d0eaef5326118cc2/b1644eb2e0d30887-3f/s1280x1920/7fc1232bf7bbf37755cb896b4ae243450a748fb1.jpg" width="400"/>
 
-- A kin will die if its fails a death save. It must make a death (Will) save every turn it has negative hit points and does not receive medical attention. The DC for all death related checks is equal to the magnitude of the kin's hit points. Sawbones + finesse check will stabilize a kin.
-- You gain experience when you do something noteworthy, bring back 100 GP in treasure, and a member of your fungather dies valiantly. To level a kin costs a number of experience equal to the kin's current level.
-- If your entire fungather dies then you lose all of your experience, equipment, and you start again with a fresh fungather.
-- If a fungather member dies you can try to convince someone to join the fungather, pay someone (100 gp), or find some other means.
+- A folk will die if its fails a death save. It must make a death (Will) save every turn it has negative hit points and does not receive medical attention. The DC for all death related checks is equal to the magnitude of the folk's hit points. Sawbones + finesse check will stabilize a folk.
+- You gain experience when you do something noteworthy, bring back 100 GP in treasure, and a member of your fungather dies valiantly. To level a folk costs a number of experience equal to the folk's current level.
+- If your entire fungather dies then you lose all of your experience, equipment, and you start again with a fresh fungather or you can play as a member of someone else's fungather.
 
 ## Quirks
 ## Fighter Quirk
@@ -299,7 +288,7 @@ On a snake eyes the spell fails and you can not cast it again until you rest and
 6. You're actually a fantastic flutist
 7. You have memories of a life in another land in 50 years time
 8. One time you had a dream of a secret ritual that you're too scared to cast
-9. You're actually a bear that got transformed into an earthkin by a witch
+9. You're actually a bear that got transformed into an Earthfolk by a witch
 
 [Art source](https://wanderingisland.tumblr.com/)
 
