@@ -41,16 +41,10 @@ You start the game with 6 Folk in an adventuring group called a fungather.
 For each folk:
 
 1. 5x(1d6) in order (Might, Finesse, Wit, Will, Fellowship)
-2. Pick class and roll 1d10:
+2. Pick class:
 	- If Might is greatest: **[Hurtmonger](#hurtmonger-fighting-man)**
-		- Gain +1 combat combat prowess
-		- Total health = 6 + Largest of Current Level and Might
 	- If Wit is greatest: **[Talkingbrain](#talkingbrain-skilled-nerd)**
-		- Roll 1d10 for a [skill](#skills) (or just pick)
-		- Total health = 6 + average of Current Level and Might (round up)
 	- If Might is greatest: **[Wortwalker](#wortwalker-mystical-wanderer)**
-		- Roll 1d10 for a [spell](#spells) (or just pick)
-		- Total health = 6 + Smallest of Current Level and Might
 4. Select [kit](#kit)
 5. Pick a name and personality or roll for one. Keep it brief, they'll probably die soon
 
