@@ -18,11 +18,11 @@
 
 #### Tips n tricks
 
-- Hire help
 - Avoid fair fights
 - Work together
 - If in doubt run away
 - Look for solutions off the character sheet
+- Hire help
 - A horse is faster than walking, and a mule can carry more than a man
 
 ## Earthfolk
@@ -35,8 +35,6 @@
 ### Quick gen
 
 You start the game with 6 Folk in an adventuring group called a fungather.
-
-> All folk start at level 1
 
 For each folk:
 
