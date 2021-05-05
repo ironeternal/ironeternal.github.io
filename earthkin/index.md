@@ -41,14 +41,16 @@ You start the game with 6 Folk in an adventuring group called a fungather.
 For each folk:
 
 1. 5x(1d6) in order (Might, Finesse, Wit, Will, Fellowship)
-1. Total health = 6 + Current Level + Might
 2. Pick class and roll 1d10:
 	- If Might is greatest: **[Hurtmonger](#hurtmonger-fighting-man)**
 		- Gain +1 combat combat prowess
+		- Total health = 6 + Largest of Current Level and Might
 	- If Wit is greatest: **[Talkingbrain](#talkingbrain-skilled-nerd)**
 		- Roll 1d10 for a [skill](#skills) (or just pick)
+		- Total health = 6 + average of Current Level and Might (round up)
 	- If Might is greatest: **[Wortwalker](#wortwalker-mystical-wanderer)**
 		- Roll 1d10 for a [spell](#spells) (or just pick)
+		- Total health = 6 + Smallest of Current Level and Might
 4. Select [kit](#kit)
 5. Pick a name and personality or roll for one. Keep it brief, they'll probably die soon
 
@@ -106,6 +108,8 @@ Stats may never exceed 6 without magic. 12 with magic.
 |5|10|Increase your might by 1|5|2|1|
 |6|15|Gain a minor deserted fort|6|3|2|
 
+Total health = 6 + Largest of Current Level and Might
+
 Hurtmongers deal:
 
 - 1d12 damage with 2 handed weapons
@@ -127,6 +131,8 @@ Hurtmongers deal:
 |5|10|Increase your wits by 1|1|5|2|
 |6|15|Gain a rundown inn|2|6|3|
 
+Total health = 6 + average of Current Level and Might (round up)
+
 Talkingbrains deal:
 
 - 1d6 damage with all weapons
@@ -145,6 +151,8 @@ Talkingbrains deal:
 |4|6|Gain a sassy familiar|2|1|4|
 |5|10|Increase your will by 1|2|1|5|
 |6|15|Gain a small remote tower|3|2|6|
+
+Total health = 6 + Smallest of Current Level and Might
 
 Wortwalkers deal:
 
