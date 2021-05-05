@@ -1,17 +1,16 @@
-# Earthking System Reference Document
+# Earthkin System Reference Document
 
 - [Quick start](#quick-gen)
 - [Characters Attributes](#characters)
 	- [Stats](#stats)
 	- [Skills](#skills)
-- [Clases](#classes)
+- [Classes](#classes)
 	- [Hurtmonger](#hurtmonger-fighting-man)
 	- [Talkingbrain](#talkingbrain-skilled-nerd)
 	- [Wortwalker](#wortwalker-mystical-wanderer)
 - [System Overview](#core-system)
 - [Kit and Equipment](#kit)
 	- [Starting kit](#starting-kit)
-	- [Weapons](#weapons)
 	- [Armour](#armour)
 - [Spells](#spells)
 - [Leveling & Dying](#leveling-and-dying)
@@ -32,29 +31,19 @@
 
 > Earth kith or kith for short (earth kin/kin singular) are a small humanoid species than inhabit the continent. They're very similar to humans and have near identical physiology; however, at around 10 years old they cease to increase in height. They experience very similar puberties and maturity, but simply never increase in height. At their tallest they're 4 foot (120 cm-ish). Their culture is strongly modeled off hobbits, goblins, and halflings.
 
-You start the game with 4 kith in an adventuring group called a fungather.
 
 ### Quick gen
+
+You start the game with 6 kith in an adventuring group called a fungather.
 
 > All kin start at level 1
 
 For each kin:
 
-1. 5d6 in order (Might, Finesse, Wit, Will, Fellowship)
-1. Total health = 15 + 2 * (Current Level + Might)
+1. 5x(1d6) in order (Might, Finesse, Wit, Will, Fellowship)
+1. Total health = 6 + Current Level + Might
 2. Pick class and roll 1d10:
 	- If Might is greatest: **Hurtmonger**
-		- Roll 1d10 for a preferred [weapons](#weapons) (or just pick):
-			1. Light Blunt
-			2. Light Sharp
-			3. Light Pointy
-			4. 1 Handed Blunt
-			5. 1 Handed Sharp
-			6. 1 Handed Pointy
-			7. 2 Handed Blunt
-			8. 2 Handed Sharp
-			9. 2 Handed Pointy
-			10. Bow
 		- Gain +1 combat combat prowess
 	- If Wit is greatest: **Talkingbrain**
 		- Roll 1d10 for a [skill](#skills) (or just pick)
@@ -109,11 +98,16 @@ Stats may never exceed 6 without magic. 12 with magic.
 |Level|Experience (Total)|Advancement|Combat Prowess|Skills Known|Spells Known|
 |-:|-:|:-|-:|-:|-:|
 |1|0||1|-|-|
-|2|2|Gain a [fighter quirk](#fighter-quirk)|2|1|-|
-|3|6|Increase your finesse by 1|3|1|-|
-|4|12|Gain a loyal squire|4|2|1|
-|5|20|Increase your might by 1|5|2|1|
-|6|30|Gain a minor deserted fort|6|3|2|
+|2|1|Gain a [fighter quirk](#fighter-quirk)|2|1|-|
+|3|3|Increase your finesse by 1|3|1|-|
+|4|6|Gain a loyal squire|4|2|1|
+|5|10|Increase your might by 1|5|2|1|
+|6|15|Gain a minor deserted fort|6|3|2|
+
+Hurtmongers deal:
+
+- 1d12 damage with 2 handed weapons
+- 1d8 damage with 1 handed weapons and bows
 
 ## Talkingbrain (Skilled Nerd)
 
@@ -125,11 +119,15 @@ Stats may never exceed 6 without magic. 12 with magic.
 |Level|Experience (Total)|Advancement|Combat Prowess|Skills Known|Spells Known|
 |-:|-:|:-|-:|-:|-:|
 |1|0||-|1|-|
-|2|2|Gain an [expert quirk](#expert-quirk)|-|2|1|
-|3|6|Increase your finesse by 1|-|3|1|
-|4|12|Gain a helpful assistant|1|4|2|
-|5|20|Increase your wits by 1|1|5|2|
-|6|30|Gain a rundown inn|2|6|3|
+|2|1|Gain an [expert quirk](#expert-quirk)|-|2|1|
+|3|3|Increase your finesse by 1|-|3|1|
+|4|6|Gain a helpful assistant|1|4|2|
+|5|10|Increase your wits by 1|1|5|2|
+|6|15|Gain a rundown inn|2|6|3|
+
+Talkingbrains deal:
+
+- 1d6 damage with all weapons
 
 ## Wortwalker (Mystical Wanderer)
 
@@ -140,11 +138,16 @@ Stats may never exceed 6 without magic. 12 with magic.
 |Level|Experience (Total)|Advancement|Combat Prowess|Skills Known|Spells Known|
 |-:|-:|:-|-:|-:|-:|
 |1|0||-|-|1|
-|2|2|Gain a [mage quirk](#mage-quirk)|1|-|2|
-|3|6|Increase your might by 1|1|-|3|
-|4|12|Gain a sassy familiar|2|1|4|
-|5|20|Increase your will by 1|2|1|5|
-|6|30|Gain a small remote tower|3|2|6|
+|2|1|Gain a [mage quirk](#mage-quirk)|1|-|2|
+|3|3|Increase your might by 1|1|-|3|
+|4|6|Gain a sassy familiar|2|1|4|
+|5|10|Increase your will by 1|2|1|5|
+|6|15|Gain a small remote tower|3|2|6|
+
+Wortwalkers deal:
+
+- 1d8 damage with 2 handed weapons and bows
+- 1d4 damage with 1 handed weapons
 
 # Core System
 
@@ -166,22 +169,31 @@ Roll 2d6 + Bonus vs Threshold
 
 ## Combat Checks
 
-- Combat Bonus: Prowess + Might + Weapon Bonus
-- Combat threshold: 6 + Armour (AC) + Prowess + Finesse + Weapon Bonus
+Combat is resolved clockwise in the following order:
 
-On a STANDARD hit deal STANDARD hit damage. On a STRONG hit deal STRONG hit damage or deal STANDARD hit damage and perform a special attack. Might is added to all melee attack rolls, only the bow and sling use Finesse to hit.
+1. melee rolls to trade blows
+1. object interactions and movements
+1. fire shots
+1. cast spells
 
-- STANDARD hit damage: STANDARD + Might
-- STRONG hit damage: STRONG + Might
+### Trade blows
 
-### Special Attacks
+You are automatically hit in combat. Your armour and skill in combat reduce the amount of damage that you take. Your weapon and skill in combat determine how much damage you deal. All creatures in melee deal damage and then resolve whether or not they are killed.
 
-- **Targeted**: hit a specific part of the target
-- **Disarm**: disarm the target
-- **Trip**: trip the target
-- **Shove**: shove the target
-- **Disengage**: target can not take attacks of opportunity until their next turn
-- **Feint**: removes prowess bonus from target defense until their next turn
+- Damage dealt: class weapon damage + combat prowess + Might
+- Damage reduction: Armour damage reduction + combat prowess + Finesse
+
+### Movement
+
+You can move approximately 30 foot per turn.
+
+### Fire shots
+
+You can not fire a ranged weapon while engaged in melee combat. Damage is dealt in the same manner as trade blows.
+
+### Cast spells
+
+You can not fire a cast a spell while engaged in melee combat.
 
 # Kit
 
@@ -189,8 +201,8 @@ On a STANDARD hit deal STANDARD hit damage. On a STRONG hit deal STRONG hit dama
 
 ## Starting kit
 
-- 2 handed weapon or 1 handed/light weapon and shield (AC +2) or Shillelagh & Censer
-- Brigandine Armour (min Might 1, AC +2) or Maile (min Might 3, AC +4) or Chainkini (+1 on social rolls)
+- 2 handed weapon or 1 handed/light weapon and shield or Shillelagh & Censer
+- Brigandine Armour or Maile or Chainkini 
 
 Shared among your 4 kin you have:
 
@@ -201,36 +213,9 @@ Shared among your 4 kin you have:
 
 All fungathers are equipped with standard adventuring equipment (rope, first aid kit, tinderbox, bedroll, water skin, etc). If there is a specific item you would like to have, have the smartest Kin in your party to a DC7 wits check.
 
-## Weapons
-
-|Weapon|Usage|Damage Type|Standard Hit|Strong Hit|Cost|Special (sp)|
-|:-|:-|:-|:-|:-|:-|:-|
-|Fist|-|Blunt|5|10|-||
-|Sap|Light|Blunt|4|14|10||
-|Hatchet|Light|Sharp|7|11|35||
-|Sickle|Light|Sharp|7|11|35||
-|Dagger|Light|Pointy|4|8|30|+1 to combat|
-|Cudgel|1 Handed|Blunt|8|22|25||
-|Camp Axe|1 Handed|Sharp|11|19|70||
-|Seax (Machete)|1 Handed|Sharp|11|19|70||
-|Spear|1 Handed|Pointy|8|16|60|+1 to combat|
-|Shillelagh|2 Handed|Blunt|10|26|50|+1 to combat|
-|Claymore|2 Handed|Sharp|13|23|140|+1 to combat|
-|Double Bit Axe|2 Handed|Sharp|13|23|140|+1 to combat|
-|Halberd|2 Handed|Pointy|10|20|120|+2 to combat|
-|Pike|2 Handed|Pointy|10|20|120|+2 to combat|
-|.|.|.|.|.|.|.|
-|Bow|2 Handed|Pointy|8|16|60|+1 to combat, Ranged|
-
-- Light weapons may be thrown
-- 2 Handed weapons have greater range and are more able to strike foes without exposing the wielder (+1 on combat)
-- Blunt weapons tend to bounce off target but when the land a solid hit they crush and shatter with greater power than other weapons (+6 damage on strong hit)
-- Pointy weapons are more able to leverage their size for offense and defense increasing their likelihood to wound (+1 on combat)
-- Glancing hits with Sharp weapons result in deep slashes, all hits from Sharp weapons deal slightly more damage than other weapons (+3 damage on hit)
-
 ## Armour
 
-|Armour|AC bonus|Minimum Might|Cost (sp)|Notes|
+|Armour|Damage Reduction|Minimum Might|Cost (sp)|Notes|
 |:-|-:|-:|-:|-:|
 |Chainkini*|0|0|25|+1 on social rolls|
 |Brigandine|2|1|100||
@@ -253,6 +238,8 @@ Roll 2d6 to determine spell strength:
 - PRODUCT: the product of the two numbers
 - LARGE: the greater of the two numbers
 - SMALL: the lesser of the two numbers
+
+On a snake eyes the spell fails and you can not cast it again until you rest and recover
 
 1. **Glamour Person** (50ft, Person, 1 hr, Will): The person regards you as a good friend and ignores the obvious spell you just cast on them
 2. **Deathmask** (touch, Humanoid Corpse, 1hr, Wits): You touch a corpse and the face peels off like a mask, while the rest of the corpse quickly rots into dust. When you (and only you) wear the mask, you will look and sound like the person whose face you're wearing, but only to sentient people (no effect on animals, spirits, or constructs). _This spell is considered evil_
@@ -290,8 +277,8 @@ Roll 2d6 to determine spell strength:
 
 ## Expert Quirk
 
-1. You have a fake eye/leg/?
-1. There's a tattoo on your back that moves around sometimes
+1. You have a fake eye/leg/? that can sense the presence of strong evil
+1. There's a tattoo on your back that moves around sometimes and helps you out
 2. Occasionally you'll lose your shadow, and when you find it again it sometimes has treats
 3. You have a treasure map branded on your leg that no one knows about
 4. You're not who you claim to be. You assumed your current identity when the last guy died
